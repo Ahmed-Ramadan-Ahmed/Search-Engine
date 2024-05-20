@@ -1,65 +1,74 @@
 import streamlit as st
 import os
 
-# Directory containing your files
-folder_path = "All_Files"
-file_map = {}
+def find_link_info(file_name, text_file):
+    with open(text_file, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+
+    for line in lines:
+        parts = line.strip().split(', ')
+        if parts[0] == file_name:
+            return [parts[1], parts[2]]
+    return None
 
 
-# Function to extract link from the first line of a file
-def extract_link(file_path):
-    with open(file_path, "r") as file:
-        first_line = file.readline().strip()
-        return first_line
+# Usage example:
+file_name = 'file.txt'
+text_file = 'links.txt'  # Replace this with your actual text file name
 
+def load_word_file_map(filename):
+    word_file_map = {}
 
-# Iterate over files in the folder
-for filename in os.listdir(folder_path):
-    file_path = os.path.join(folder_path, filename)
-    if os.path.isfile(file_path):  # Check if it's a file
-        link = extract_link(file_path)
-        file_map[filename] = link
-
-
-def create_link_dictionary(file_path, word_to_search):
-    link_dict = {}
-    with open(file_path, "r") as file:
+    with open(filename, 'r', encoding='utf-8') as file:
         for line in file:
-            parts = line.strip().split(":")
-            if len(parts) == 2:
-                word = parts[0].strip()
-                if word != word_to_search:
-                    continue
-                file_names = [file_map[file.strip()] for file in parts[1].split(",")]
-                link_dict[word] = file_names
-                break
-    return link_dict
+            # Split the line into word and file names
+            word, files = line.split(': ')
+            # Remove trailing newlines and split the file names into a list
+            file_list = files.strip().split(', ')
+            # Add the word and corresponding file list to the dictionary
+            word_file_map[word] = file_list
 
+    return word_file_map
 
-def search_word(word, link_dict):
-    if word in link_dict:
-        return link_dict[word]
-    else:
-        return "Word not found in the file."
-
+def search_word(word_file_map, word):
+    # Return the list of files for the given word, or an empty list if the word is not found
+    return word_file_map.get(word, [])
 
 def search_page_rank(word):
     file_path = "page-rank.txt"
-    link_dict = create_link_dictionary(file_path, word)
-    return search_word(word, link_dict)
+    files = search_word(load_word_file_map(file_path),word)
+    text_file = 'links.txt'
+    ans = []
+    for file_name in files:
+        temp = find_link_info(file_name, text_file)
+        if len(temp) != 0 :
+            ans.append({"url": temp[0], "name": temp[1]},)
 
+    return ans
 
 def search_tf_idf(word):
     file_path = "tf-idf.txt"
-    link_dict = create_link_dictionary(file_path, word)
-    return search_word(word, link_dict)
+    files = search_word(load_word_file_map(file_path), word)
+    text_file = 'links.txt'
+    ans = []
+    for file_name in files:
+        temp = find_link_info(file_name, text_file)
+        if len(temp) != 0:
+            ans.append({"url": temp[0], "name": temp[1]}, )
 
+    return ans
 
 def search_inverted_index(word):
     file_path = "inverted-index.txt"
-    link_dict = create_link_dictionary(file_path, word)
-    return search_word(word, link_dict)
+    files = search_word(load_word_file_map(file_path), word)
+    text_file = 'links.txt'
+    ans = []
+    for file_name in files:
+        temp = find_link_info(file_name, text_file)
+        if len(temp) != 0:
+            ans.append({"url": temp[0], "name": temp[1]}, )
 
+    return ans
 
 def main():
     st.title("Word Link Search")
@@ -76,20 +85,18 @@ def main():
             elif search_method == "inverted-index":
                 result = search_inverted_index(word)
 
-            if result == "Word not found in the file.":
+            if len(result) == 0 :
                 st.error(f"The word '{word}' was not found in the links.")
             else:
-                st.text_area("Links found:", "\n".join(result))
+
+                for key, value in enumerate(result):
+                    url = value["url"]
+                    name = value["name"]
+                    st.markdown(f"[**{name}**]({url})")
+                    # st.text_area("Links found:", "".join(f"[{name}]({url})"))
         else:
             st.warning("Please enter a word to search.")
 
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
