@@ -1,0 +1,999 @@
+file1.txt, https://www.wikipedia.org/, Wikipedia
+file10.txt, https://am.wikipedia.org/wiki/%E1%8B%A8%E1%8B%8A%E1%8A%AA%E1%8D%94%E1%8B%B2%E1%8B%AB%E1%8B%8E%E1%89%BD_%E1%8B%9D%E1%88%AD%E1%8B%9D%E1%88%AD, ውክፔዲያ - የዊኪፔዲያዎች ዝርዝር
+file100.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ne&uselang=ne, List of Wikipedias/ne - Meta
+file101.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/mr&uselang=mr, List of Wikipedias/mr - Meta
+file102.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/hi&uselang=hi, List of Wikipedias/hi - Meta
+file103.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/bn&uselang=bn, List of Wikipedias/bn - Meta
+file104.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/pa&uselang=pa, List of Wikipedias/pa - Meta
+file105.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/gu&uselang=gu, List of Wikipedias/gu - Meta
+file106.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ta&uselang=ta, List of Wikipedias/ta - Meta
+file107.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/kn&uselang=kn, List of Wikipedias/kn - Meta
+file108.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/mnw&uselang=mnw, List of Wikipedias/mnw - Meta
+file109.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/my&uselang=my, List of Wikipedias/my - Meta
+file11.txt, https://an.wikipedia.org/wiki/Lista_de_Biquipedias, Lista de Biquipedias - Biquipedia, a enciclopedia libre
+file110.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ko&uselang=ko, List of Wikipedias/ko - Meta
+file111.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ja&uselang=ja, List of Wikipedias/ja - Meta
+file112.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/zh&uselang=zh, List of Wikipedias/zh - Meta
+file113.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/he&uselang=he, List of Wikipedias/he – Meta
+file114.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ar&uselang=ar, List of Wikipedias/ar - Meta
+file115.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ug&uselang=ug, List of Wikipedias/ug - Meta
+file116.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ur&uselang=ur, List of Wikipedias/ur - Meta
+file117.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ps&uselang=ps, List of Wikipedias/ps - Meta
+file118.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/sd&uselang=sd, List of Wikipedias/sd - Meta
+file119.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/fa&uselang=fa, List of Wikipedias/fa - Meta
+file12.txt, https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7%D8%AA, قائمة الويكيبيديات - ويكيبيديا
+file120.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ckb&uselang=ckb, List of Wikipedias/ckb - Meta
+file121.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/mzn&uselang=mzn, List of Wikipedias/mzn - Meta
+file122.txt, https://incubator.wikimedia.org/wiki/, Incubator:Main Page - Wikimedia Incubator
+file123.txt, https://en.wikipedia.org/wiki/wiki, Wiki - Wikipedia
+file124.txt, https://en.wikipedia.org/wiki/URL, URL - Wikipedia
+file125.txt, https://incubator.wikimedia.org/wiki/Help:Manual, Help:Manual - Wikimedia Incubator
+file126.txt, https://wikistats.wmcloud.org/display.php?t=wp, WikiStats - List of Wikipedias
+file127.txt, https://en.wikipedia.org/wiki/Wikipedia:Anniversary, Wikipedia:Anniversary - Wikipedia
+file128.txt, https://en.wikipedia.org/wiki/Wikipedia:Milestone_statistics, Wikipedia:Milestone statistics - Wikipedia
+file129.txt, https://www.mediawiki.org/wiki/Manual:Article_count, Manual:Article count - MediaWiki
+file13.txt, https://arz.wikipedia.org/wiki/%D9%84%D9%8A%D8%B3%D8%AA%D8%A9_%D8%A7%D9%84%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7%D8%AA, ليستة الويكيبيديات - ويكيبيديا
+file130.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/Table&action=history, List of Wikipedias/Table: Revision history - Meta
+file131.txt, https://commons.wikimedia.org/w/index.php?title=Data:Wikipedia_statistics/data.tab&action=history, Data:Wikipedia statistics/data.tab: Revision history - Wikimedia Commons
+file132.txt, https://commons.wikimedia.org/wiki/Data:Wikipedia_statistics/data.tab, Data:Wikipedia statistics/data.tab - Wikimedia Commons
+file133.txt, https://en.wikipedia.org/wiki/English_language, English language - Wikipedia
+file134.txt, https://en.wikipedia.org/wiki/, Wikipedia, the free encyclopedia
+file135.txt, https://en.wikipedia.org/wiki/Special:Statistics, Statistics - Wikipedia
+file136.txt, https://en.wikipedia.org/wiki/Special:AllPages, All pages - Wikipedia
+file137.txt, https://en.wikipedia.org/wiki/Special:RecentChanges, Recent changes - Wikipedia
+file138.txt, https://en.wikipedia.org/wiki/Special:ListUsers/sysop, Users - Wikipedia
+file139.txt, https://en.wikipedia.org/wiki/Special:ListUsers, Users - Wikipedia
+file14.txt, https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A7%B0_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE, ৱিকিপিডিয়াৰ তালিকা - অসমীয়া ৱিকিপিডিয়া
+file140.txt, https://en.wikipedia.org/wiki/Special:ActiveUsers, Active users list - Wikipedia
+file141.txt, https://en.wikipedia.org/wiki/Special:NewFiles, Gallery of new files - Wikipedia
+file142.txt, https://en.wikipedia.org/wiki/Cebuano_language, Cebuano language - Wikipedia
+file143.txt, https://ceb.wikipedia.org/wiki/, Wikipedia
+file144.txt, https://ceb.wikipedia.org/wiki/Special:Statistics, Estadistika - Wikipedia
+file145.txt, https://ceb.wikipedia.org/wiki/Special:AllPages, Tanang artikulo - Wikipedia
+file146.txt, https://ceb.wikipedia.org/wiki/Special:RecentChanges, Mga bag-ong giusab - Wikipedia
+file147.txt, https://ceb.wikipedia.org/wiki/Special:ListUsers/sysop, Talaan sa mga gumagamit - Wikipedia
+file148.txt, https://ceb.wikipedia.org/wiki/Special:ListUsers, Talaan sa mga gumagamit - Wikipedia
+file149.txt, https://ceb.wikipedia.org/wiki/Special:ActiveUsers, Active users list - Wikipedia
+file15.txt, https://ast.wikipedia.org/wiki/Llista_de_Wikipedies, Llista de Wikipedies - Wikipedia
+file150.txt, https://ceb.wikipedia.org/wiki/Special:NewFiles, Mga bag-ong payl - Wikipedia
+file151.txt, https://en.wikipedia.org/wiki/German_language, German language - Wikipedia
+file152.txt, https://de.wikipedia.org/wiki/, Wikipedia – Die freie Enzyklopädie
+file153.txt, https://de.wikipedia.org/wiki/Special:Statistics, Statistik – Wikipedia
+file154.txt, https://de.wikipedia.org/wiki/Special:AllPages, Alle Seiten – Wikipedia
+file155.txt, https://de.wikipedia.org/wiki/Special:RecentChanges, Letzte Änderungen – Wikipedia
+file156.txt, https://de.wikipedia.org/wiki/Special:ListUsers/sysop, Benutzerverzeichnis – Wikipedia
+file157.txt, https://de.wikipedia.org/wiki/Special:ListUsers, Benutzerverzeichnis – Wikipedia
+file158.txt, https://de.wikipedia.org/wiki/Special:ActiveUsers, Aktive Benutzer – Wikipedia
+file159.txt, https://de.wikipedia.org/wiki/Special:NewFiles, Neue Dateien – Wikipedia
+file16.txt, https://azb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%D9%84%D8%A7%D8%B1_%D9%84%DB%8C%D8%B3%D8%AA%DB%8C, ویکی‌پدیالار لیستی - ویکی‌پدیا
+file160.txt, https://en.wikipedia.org/wiki/French_language, French language - Wikipedia
+file161.txt, https://fr.wikipedia.org/wiki/, Wikipédia, l'encyclopédie libre
+file162.txt, https://fr.wikipedia.org/wiki/Special:Statistics, Statistiques — Wikipédia
+file163.txt, https://fr.wikipedia.org/wiki/Special:AllPages, Toutes les pages — Wikipédia
+file164.txt, https://fr.wikipedia.org/wiki/Special:RecentChanges, Modifications récentes — Wikipédia
+file165.txt, https://fr.wikipedia.org/wiki/Special:ListUsers/sysop, Liste des utilisateurs — Wikipédia
+file166.txt, https://fr.wikipedia.org/wiki/Special:ListUsers, Liste des utilisateurs — Wikipédia
+file167.txt, https://fr.wikipedia.org/wiki/Special:ActiveUsers, Liste des utilisateurs actifs — Wikipédia
+file168.txt, https://fr.wikipedia.org/wiki/Special:NewFiles, Galerie des nouveaux fichiers — Wikipédia
+file169.txt, https://en.wikipedia.org/wiki/Swedish_language, Swedish language - Wikipedia
+file17.txt, https://ban.wikipedia.org/wiki/Lis_wikip%C3%A9dia, Lis wikipédia - Wikipédia
+file170.txt, https://sv.wikipedia.org/wiki/, Wikipedia, den fria encyklopedin
+file171.txt, https://sv.wikipedia.org/wiki/Special:Statistics, Statistik – Wikipedia
+file172.txt, https://sv.wikipedia.org/wiki/Special:AllPages, Alla artiklar – Wikipedia
+file173.txt, https://sv.wikipedia.org/wiki/Special:RecentChanges, Senaste ändringarna – Wikipedia
+file174.txt, https://sv.wikipedia.org/wiki/Special:ListUsers/sysop, Användarlista – Wikipedia
+file175.txt, https://sv.wikipedia.org/wiki/Special:ListUsers, Användarlista – Wikipedia
+file176.txt, https://sv.wikipedia.org/wiki/Special:ActiveUsers, Lista över aktiva användare – Wikipedia
+file177.txt, https://sv.wikipedia.org/wiki/Special:NewFiles, Galleri över nya filer – Wikipedia
+file178.txt, https://en.wikipedia.org/wiki/Dutch_language, Dutch language - Wikipedia
+file179.txt, https://nl.wikipedia.org/wiki/, Wikipedia, de vrije encyclopedie
+file18.txt, https://bh.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%B8%E0%A4%AD_%E0%A4%95%E0%A5%87_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80, विकिपीडिया सभ के सूची - विकिपीडिया
+file180.txt, https://nl.wikipedia.org/wiki/Special:Statistics, Statistieken - Wikipedia
+file181.txt, https://nl.wikipedia.org/wiki/Special:AllPages, Alle artikelen - Wikipedia
+file182.txt, https://nl.wikipedia.org/wiki/Special:RecentChanges, Recente wijzigingen - Wikipedia
+file183.txt, https://nl.wikipedia.org/wiki/Special:ListUsers/sysop, Gebruikerslijst - Wikipedia
+file184.txt, https://nl.wikipedia.org/wiki/Special:ListUsers, Gebruikerslijst - Wikipedia
+file185.txt, https://nl.wikipedia.org/wiki/Special:ActiveUsers, Actieve gebruikers - Wikipedia
+file186.txt, https://nl.wikipedia.org/wiki/Special:NewFiles, Nieuwe bestanden - Wikipedia
+file187.txt, https://en.wikipedia.org/wiki/Russian_language, Russian language - Wikipedia
+file188.txt, https://ru.wikipedia.org/wiki/, Википедия — свободная энциклопедия
+file189.txt, https://ru.wikipedia.org/wiki/Special:Statistics, Статистика — Википедия
+file19.txt, https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9%E0%A7%87%E0%A6%B0_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE, উইকিপিডিয়াসমূহের তালিকা - উইকিপিডিয়া
+file190.txt, https://ru.wikipedia.org/wiki/Special:AllPages, Все страницы — Википедия
+file191.txt, https://ru.wikipedia.org/wiki/Special:RecentChanges, Свежие правки — Википедия
+file192.txt, https://ru.wikipedia.org/wiki/Special:ListUsers/sysop, Список участников — Википедия
+file193.txt, https://ru.wikipedia.org/wiki/Special:ListUsers, Список участников — Википедия
+file194.txt, https://ru.wikipedia.org/wiki/Special:ActiveUsers, Список активных участников — Википедия
+file195.txt, https://ru.wikipedia.org/wiki/Special:NewFiles, Галерея новых файлов — Википедия
+file196.txt, https://en.wikipedia.org/wiki/Spanish_language, Spanish language - Wikipedia
+file197.txt, https://es.wikipedia.org/wiki/, Wikipedia, la enciclopedia libre
+file198.txt, https://es.wikipedia.org/wiki/Special:Statistics, Estadísticas - Wikipedia, la enciclopedia libre
+file199.txt, https://es.wikipedia.org/wiki/Special:AllPages, Todas las páginas - Wikipedia, la enciclopedia libre
+file2.txt, https://meta.wikimedia.org/wiki/Special:MyLanguage/List_of_Wikipedias, List of Wikipedias - Meta
+file20.txt, https://ckb.wikipedia.org/wiki/%D9%BE%DB%8E%DA%95%D8%B3%D8%AA%DB%8C_%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%D8%AF%DB%8C%D8%A7%DA%A9%D8%A7%D9%86, پێڕستی ویکیپیدیاکان - ویکیپیدیا، ئینسایکڵۆپیدیای ئازاد
+file200.txt, https://es.wikipedia.org/wiki/Special:RecentChanges, Cambios recientes - Wikipedia, la enciclopedia libre
+file201.txt, https://es.wikipedia.org/wiki/Special:ListUsers/sysop, Lista de usuarios - Wikipedia, la enciclopedia libre
+file202.txt, https://es.wikipedia.org/wiki/Special:ListUsers, Lista de usuarios - Wikipedia, la enciclopedia libre
+file203.txt, https://es.wikipedia.org/wiki/Special:ActiveUsers, Lista de usuarios activos - Wikipedia, la enciclopedia libre
+file204.txt, https://es.wikipedia.org/wiki/Special:NewFiles, Galería de nuevas imágenes - Wikipedia, la enciclopedia libre
+file205.txt, https://en.wikipedia.org/wiki/Italian_language, Italian language - Wikipedia
+file206.txt, https://it.wikipedia.org/wiki/, Wikipedia, l'enciclopedia libera
+file207.txt, https://it.wikipedia.org/wiki/Special:Statistics, Statistiche - Wikipedia
+file208.txt, https://it.wikipedia.org/wiki/Special:AllPages, Tutte le voci - Wikipedia
+file209.txt, https://it.wikipedia.org/wiki/Special:RecentChanges, Ultime modifiche - Wikipedia
+file21.txt, https://cv.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%BD_%D1%87%C4%95%D0%BB%D1%85%D0%B5_%D1%83%D0%B9%D1%80%C4%83%D0%BC%C4%95%D1%81%D0%B5%D0%BC, Википедин чĕлхе уйрăмĕсем — Википеди
+file210.txt, https://it.wikipedia.org/wiki/Special:ListUsers/sysop, Elenco degli utenti - Wikipedia
+file211.txt, https://it.wikipedia.org/wiki/Special:ListUsers, Elenco degli utenti - Wikipedia
+file212.txt, https://it.wikipedia.org/wiki/Special:ActiveUsers, Elenco degli utenti attivi - Wikipedia
+file213.txt, https://it.wikipedia.org/wiki/Special:NewFiles, Galleria dei nuovi file - Wikipedia
+file214.txt, https://en.wikipedia.org/wiki/Egyptian_Arabic_language, Egyptian Arabic - Wikipedia
+file215.txt, https://arz.wikipedia.org/wiki/, ويكيبيديا
+file216.txt, https://arz.wikipedia.org/wiki/Special:Statistics, احصائيات - ويكيبيديا
+file217.txt, https://arz.wikipedia.org/wiki/Special:AllPages, كل المقالات - ويكيبيديا
+file218.txt, https://arz.wikipedia.org/wiki/Special:RecentChanges, اخر التعديلات - ويكيبيديا
+file219.txt, https://arz.wikipedia.org/wiki/Special:ListUsers/sysop, لستة الأعضاء - ويكيبيديا
+file22.txt, https://de.wikipedia.org/wiki/Liste_der_Wikipedias_nach_Sprachen, Liste der Wikipedias nach Sprachen – Wikipedia
+file220.txt, https://arz.wikipedia.org/wiki/Special:ListUsers, لستة الأعضاء - ويكيبيديا
+file221.txt, https://arz.wikipedia.org/wiki/Special:ActiveUsers, ليستة اليوزرات اللى ليهم نشاط - ويكيبيديا
+file222.txt, https://arz.wikipedia.org/wiki/Special:NewFiles, جاليرى الصور الجديده - ويكيبيديا
+file223.txt, https://en.wikipedia.org/wiki/Polish_language, Polish language - Wikipedia
+file224.txt, https://pl.wikipedia.org/wiki/, Wikipedia, wolna encyklopedia
+file225.txt, https://pl.wikipedia.org/wiki/Special:Statistics, Statystyki – Wikipedia, wolna encyklopedia
+file226.txt, https://pl.wikipedia.org/wiki/Special:AllPages, Wszystkie artykuły – Wikipedia, wolna encyklopedia
+file227.txt, https://pl.wikipedia.org/wiki/Special:RecentChanges, Ostatnie zmiany – Wikipedia, wolna encyklopedia
+file228.txt, https://pl.wikipedia.org/wiki/Special:ListUsers/sysop, Lista użytkowników – Wikipedia, wolna encyklopedia
+file229.txt, https://pl.wikipedia.org/wiki/Special:ListUsers, Lista użytkowników – Wikipedia, wolna encyklopedia
+file23.txt, https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CE%B9%CF%8E%CE%BD, Κατάλογος Βικιπαιδειών - Βικιπαίδεια
+file230.txt, https://pl.wikipedia.org/wiki/Special:ActiveUsers, Lista aktywnych użytkowników – Wikipedia, wolna encyklopedia
+file231.txt, https://pl.wikipedia.org/wiki/Special:NewFiles, Najnowsze pliki – Wikipedia, wolna encyklopedia
+file232.txt, https://en.wikipedia.org/wiki/Chinese_language, Chinese language - Wikipedia
+file233.txt, https://zh.wikipedia.org/wiki/, 维基百科，自由的百科全书
+file234.txt, https://zh.wikipedia.org/wiki/Special:Statistics, 统计 - 维基百科，自由的百科全书
+file235.txt, https://zh.wikipedia.org/wiki/Special:AllPages, 所有页面 - 维基百科，自由的百科全书
+file236.txt, https://zh.wikipedia.org/wiki/Special:RecentChanges, 最近更改 - 维基百科，自由的百科全书
+file237.txt, https://zh.wikipedia.org/wiki/Special:ListUsers/sysop, 用户列表 - 维基百科，自由的百科全书
+file238.txt, https://zh.wikipedia.org/wiki/Special:ListUsers, 用户列表 - 维基百科，自由的百科全书
+file239.txt, https://zh.wikipedia.org/wiki/Special:ActiveUsers, 活跃用户列表 - 维基百科，自由的百科全书
+file24.txt, https://en.wikipedia.org/wiki/List_of_Wikipedias, List of Wikipedias - Wikipedia
+file240.txt, https://zh.wikipedia.org/wiki/Special:NewFiles, 新图像 - 维基百科，自由的百科全书
+file241.txt, https://en.wikipedia.org/wiki/Japanese_language, Japanese language - Wikipedia
+file242.txt, https://ja.wikipedia.org/wiki/, Wikipedia
+file243.txt, https://ja.wikipedia.org/wiki/Special:Statistics, 統計 - Wikipedia
+file244.txt, https://ja.wikipedia.org/wiki/Special:AllPages, 全ページ - Wikipedia
+file245.txt, https://ja.wikipedia.org/wiki/Special:RecentChanges, 最近の更新 - Wikipedia
+file246.txt, https://ja.wikipedia.org/wiki/Special:ListUsers/sysop, 利用者一覧 - Wikipedia
+file247.txt, https://ja.wikipedia.org/wiki/Special:ListUsers, 利用者一覧 - Wikipedia
+file248.txt, https://ja.wikipedia.org/wiki/Special:ActiveUsers, 活動中の利用者一覧 - Wikipedia
+file249.txt, https://ja.wikipedia.org/wiki/Special:NewFiles, 新しいファイルのギャラリー - Wikipedia
+file25.txt, https://eo.wikipedia.org/wiki/Listo_de_lingvoversioj_de_Vikipedio, Listo de lingvoversioj de Vikipedio - Vikipedio
+file250.txt, https://en.wikipedia.org/wiki/Ukrainian_language, Ukrainian language - Wikipedia
+file251.txt, https://uk.wikipedia.org/wiki/, Вікіпедія
+file252.txt, https://uk.wikipedia.org/wiki/Special:Statistics, Статистика — Вікіпедія
+file253.txt, https://uk.wikipedia.org/wiki/Special:AllPages, Усі сторінки — Вікіпедія
+file254.txt, https://uk.wikipedia.org/wiki/Special:RecentChanges, Нові редагування — Вікіпедія
+file255.txt, https://uk.wikipedia.org/wiki/Special:ListUsers/sysop, Список користувачів — Вікіпедія
+file256.txt, https://uk.wikipedia.org/wiki/Special:ListUsers, Список користувачів — Вікіпедія
+file257.txt, https://uk.wikipedia.org/wiki/Special:ActiveUsers, Список активних користувачів — Вікіпедія
+file258.txt, https://uk.wikipedia.org/wiki/Special:NewFiles, Галерея нових файлів — Вікіпедія
+file259.txt, https://en.wikipedia.org/wiki/Vietnamese_language, Vietnamese language - Wikipedia
+file26.txt, https://es.wikipedia.org/wiki/Anexo:Wikipedias, Anexo:Wikipedias - Wikipedia, la enciclopedia libre
+file260.txt, https://vi.wikipedia.org/wiki/, Wikipedia, bách khoa toàn thư mở
+file261.txt, https://vi.wikipedia.org/wiki/Special:Statistics, Thống kê – Wikipedia tiếng Việt
+file262.txt, https://vi.wikipedia.org/wiki/Special:AllPages, Tất cả các trang – Wikipedia tiếng Việt
+file263.txt, https://vi.wikipedia.org/wiki/Special:RecentChanges, Thay đổi gần đây – Wikipedia tiếng Việt
+file264.txt, https://vi.wikipedia.org/wiki/Special:ListUsers/sysop, Danh sách thành viên – Wikipedia tiếng Việt
+file265.txt, https://vi.wikipedia.org/wiki/Special:ListUsers, Danh sách thành viên – Wikipedia tiếng Việt
+file266.txt, https://vi.wikipedia.org/wiki/Special:ActiveUsers, Danh sách thành viên tích cực – Wikipedia tiếng Việt
+file267.txt, https://vi.wikipedia.org/wiki/Special:NewFiles, Trưng bày các tập tin mới – Wikipedia tiếng Việt
+file268.txt, https://en.wikipedia.org/wiki/Waray_language, Waray language - Wikipedia
+file269.txt, https://war.wikipedia.org/wiki/, Wikipedia
+file27.txt, https://et.wikipedia.org/wiki/Vikipeediate_loend, Vikipeediate loend – Vikipeedia
+file270.txt, https://war.wikipedia.org/wiki/Special:Statistics, Mga Estadistika - Wikipedia
+file271.txt, https://war.wikipedia.org/wiki/Special:AllPages, Ngatanan nga mga barasahon - Wikipedia
+file272.txt, https://war.wikipedia.org/wiki/Special:RecentChanges, Mga kabag-ohan - Wikipedia
+file273.txt, https://war.wikipedia.org/wiki/Special:ListUsers/sysop, Lista hin mga nágámit - Wikipedia
+file274.txt, https://war.wikipedia.org/wiki/Special:ListUsers, Lista hin mga nágámit - Wikipedia
+file275.txt, https://war.wikipedia.org/wiki/Special:ActiveUsers, Taramdan hin mga gumaramit nga nanggigios - Wikipedia
+file276.txt, https://war.wikipedia.org/wiki/Special:NewFiles, Galeryia hin mga paypay nga bag-o - Wikipedia
+file277.txt, https://en.wikipedia.org/wiki/Arabic_language, Arabic - Wikipedia
+file278.txt, https://ar.wikipedia.org/wiki/, ويكيبيديا، الموسوعة الحرة
+file279.txt, https://ar.wikipedia.org/wiki/Special:Statistics, إحصاءات - ويكيبيديا
+file28.txt, https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%D9%87%D8%A7, فهرست ویکی‌پدیاها - ویکی‌پدیا، دانشنامهٔ آزاد
+file280.txt, https://ar.wikipedia.org/wiki/Special:AllPages, كل الصفحات - ويكيبيديا
+file281.txt, https://ar.wikipedia.org/wiki/Special:RecentChanges, أحدث التغييرات - ويكيبيديا
+file282.txt, https://ar.wikipedia.org/wiki/Special:ListUsers/sysop, قائمة الأعضاء - ويكيبيديا
+file283.txt, https://ar.wikipedia.org/wiki/Special:ListUsers, قائمة الأعضاء - ويكيبيديا
+file284.txt, https://ar.wikipedia.org/wiki/Special:ActiveUsers, قائمة المستخدمين النشطين - ويكيبيديا
+file285.txt, https://ar.wikipedia.org/wiki/Special:NewFiles, معرض الملفات الجديدة - ويكيبيديا
+file286.txt, https://en.wikipedia.org/wiki/Portuguese_language, Portuguese language - Wikipedia
+file287.txt, https://pt.wikipedia.org/wiki/, Wikipédia, a enciclopédia livre
+file288.txt, https://pt.wikipedia.org/wiki/Special:Statistics, Estatísticas – Wikipédia, a enciclopédia livre
+file289.txt, https://pt.wikipedia.org/wiki/Special:AllPages, Todas as páginas – Wikipédia, a enciclopédia livre
+file29.txt, https://fr.wikipedia.org/wiki/Liste_des_%C3%A9ditions_de_Wikip%C3%A9dia, Liste des éditions de Wikipédia — Wikipédia
+file290.txt, https://pt.wikipedia.org/wiki/Special:RecentChanges, Mudanças recentes – Wikipédia, a enciclopédia livre
+file291.txt, https://pt.wikipedia.org/wiki/Special:ListUsers/sysop, Utilizadores – Wikipédia, a enciclopédia livre
+file292.txt, https://pt.wikipedia.org/wiki/Special:ListUsers, Utilizadores – Wikipédia, a enciclopédia livre
+file293.txt, https://pt.wikipedia.org/wiki/Special:ActiveUsers, Utilizadores ativos – Wikipédia, a enciclopédia livre
+file294.txt, https://pt.wikipedia.org/wiki/Special:NewFiles, Galeria de novos ficheiros – Wikipédia, a enciclopédia livre
+file295.txt, https://en.wikipedia.org/wiki/Persian_language, Persian language - Wikipedia
+file296.txt, https://fa.wikipedia.org/wiki/, ویکی‌پدیا، دانشنامهٔ آزاد
+file297.txt, https://fa.wikipedia.org/wiki/Special:Statistics, آمار - ویکی‌پدیا، دانشنامهٔ آزاد
+file298.txt, https://fa.wikipedia.org/wiki/Special:AllPages, همهٔ صفحه‌ها - ویکی‌پدیا، دانشنامهٔ آزاد
+file299.txt, https://fa.wikipedia.org/wiki/Special:RecentChanges, تغییرات اخیر - ویکی‌پدیا، دانشنامهٔ آزاد
+file3.txt, https://donate.wikimedia.org/?utm_medium=portal&utm_campaign=portalFooter&utm_source=portalFooter, Make your donation now - Wikimedia Foundation
+file30.txt, https://gl.wikipedia.org/wiki/Lista_de_Wikipedias, Lista de Wikipedias - Wikipedia, a enciclopedia libre
+file300.txt, https://fa.wikipedia.org/wiki/Special:ListUsers/sysop, فهرست کاربران - ویکی‌پدیا، دانشنامهٔ آزاد
+file301.txt, https://fa.wikipedia.org/wiki/Special:ListUsers, فهرست کاربران - ویکی‌پدیا، دانشنامهٔ آزاد
+file302.txt, https://fa.wikipedia.org/wiki/Special:ActiveUsers, فهرست کاربران فعال - ویکی‌پدیا، دانشنامهٔ آزاد
+file303.txt, https://fa.wikipedia.org/wiki/Special:NewFiles, نگارخانهٔ پرونده‌های جدید - ویکی‌پدیا، دانشنامهٔ آزاد
+file304.txt, https://en.wikipedia.org/wiki/Catalan_language, Catalan language - Wikipedia
+file305.txt, https://ca.wikipedia.org/wiki/, Viquipèdia
+file306.txt, https://ca.wikipedia.org/wiki/Special:Statistics, Estadístiques - Viquipèdia, l'enciclopèdia lliure
+file307.txt, https://ca.wikipedia.org/wiki/Special:AllPages, Totes les pàgines - Viquipèdia, l'enciclopèdia lliure
+file308.txt, https://ca.wikipedia.org/wiki/Special:RecentChanges, Canvis recents - Viquipèdia, l'enciclopèdia lliure
+file309.txt, https://ca.wikipedia.org/wiki/Special:ListUsers/sysop, Llista d'usuaris - Viquipèdia, l'enciclopèdia lliure
+file31.txt, https://gor.wikipedia.org/wiki/Daputari_lo_nga%27amila_Wikipedia, Daputari lo nga'amila Wikipedia - Wikipedia
+file310.txt, https://ca.wikipedia.org/wiki/Special:ListUsers, Llista d'usuaris - Viquipèdia, l'enciclopèdia lliure
+file311.txt, https://ca.wikipedia.org/wiki/Special:ActiveUsers, Llista d'usuaris actius - Viquipèdia, l'enciclopèdia lliure
+file312.txt, https://ca.wikipedia.org/wiki/Special:NewFiles, Galeria de fitxers nous - Viquipèdia, l'enciclopèdia lliure
+file313.txt, https://en.wikipedia.org/wiki/Indonesian_language, Indonesian language - Wikipedia
+file314.txt, https://id.wikipedia.org/wiki/, Wikipedia bahasa Indonesia, ensiklopedia bebas
+file315.txt, https://id.wikipedia.org/wiki/Special:Statistics, Statistik - Wikipedia bahasa Indonesia, ensiklopedia bebas
+file316.txt, https://id.wikipedia.org/wiki/Special:AllPages, Semua halaman - Wikipedia bahasa Indonesia, ensiklopedia bebas
+file317.txt, https://id.wikipedia.org/wiki/Special:RecentChanges, Perubahan terbaru - Wikipedia bahasa Indonesia, ensiklopedia bebas
+file318.txt, https://id.wikipedia.org/wiki/Special:ListUsers/sysop, Daftar pengguna - Wikipedia bahasa Indonesia, ensiklopedia bebas
+file319.txt, https://id.wikipedia.org/wiki/Special:ListUsers, Daftar pengguna - Wikipedia bahasa Indonesia, ensiklopedia bebas
+file32.txt, https://hak.wikipedia.org/wiki/Wikipedia_ng%C3%AE-ngi%C3%A8n_k%C3%B4an-he_ke_ph%C3%A0i-chhut_mi%C3%A0ng-t%C3%A2n, Wikipedia ngî-ngièn kôan-he ke phài-chhut miàng-tân - 自由編輯个維基百科
+file320.txt, https://id.wikipedia.org/wiki/Special:ActiveUsers, Daftar pengguna aktif - Wikipedia bahasa Indonesia, ensiklopedia bebas
+file321.txt, https://id.wikipedia.org/wiki/Special:NewFiles, Berkas baru - Wikipedia bahasa Indonesia, ensiklopedia bebas
+file322.txt, https://en.wikipedia.org/wiki/Serbian_language, Serbian language - Wikipedia
+file323.txt, https://sr.wikipedia.org/wiki/, Википедија
+file324.txt, https://sr.wikipedia.org/wiki/Special:Statistics, Статистика — Википедија
+file325.txt, https://sr.wikipedia.org/wiki/Special:AllPages, Све странице — Википедија
+file326.txt, https://sr.wikipedia.org/wiki/Special:RecentChanges, Скорашње измене — Википедија
+file327.txt, https://sr.wikipedia.org/wiki/Special:ListUsers/sysop, Списак корисника — Википедија
+file328.txt, https://sr.wikipedia.org/wiki/Special:ListUsers, Списак корисника — Википедија
+file329.txt, https://sr.wikipedia.org/wiki/Special:ActiveUsers, Списак активних корисника — Википедија
+file33.txt, https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%93%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80, विकिपीडियाओं की सूची - विकिपीडिया
+file330.txt, https://sr.wikipedia.org/wiki/Special:NewFiles, Галерија нових датотека — Википедија
+file331.txt, https://en.wikipedia.org/wiki/Korean_language, Korean language - Wikipedia
+file332.txt, https://ko.wikipedia.org/wiki/, 위키백과, 우리 모두의 백과사전
+file333.txt, https://ko.wikipedia.org/wiki/Special:Statistics, 통계 - 위키백과, 우리 모두의 백과사전
+file334.txt, https://ko.wikipedia.org/wiki/Special:AllPages, 모든 문서 - 위키백과, 우리 모두의 백과사전
+file335.txt, https://ko.wikipedia.org/wiki/Special:RecentChanges, 최근 바뀜 - 위키백과, 우리 모두의 백과사전
+file336.txt, https://ko.wikipedia.org/wiki/Special:ListUsers/sysop, 사용자 목록 - 위키백과, 우리 모두의 백과사전
+file337.txt, https://ko.wikipedia.org/wiki/Special:ListUsers, 사용자 목록 - 위키백과, 우리 모두의 백과사전
+file338.txt, https://ko.wikipedia.org/wiki/Special:ActiveUsers, 활동 중인 사용자 목록 - 위키백과, 우리 모두의 백과사전
+file339.txt, https://ko.wikipedia.org/wiki/Special:NewFiles, 새 파일 목록 - 위키백과, 우리 모두의 백과사전
+file34.txt, https://id.wikipedia.org/wiki/Daftar_Wikipedia, Daftar Wikipedia - Wikipedia bahasa Indonesia, ensiklopedia bebas
+file340.txt, https://en.wikipedia.org/wiki/Norwegian_language, Norwegian language - Wikipedia
+file341.txt, https://no.wikipedia.org/wiki/, Wikipedia, den frie encyklopedi
+file342.txt, https://no.wikipedia.org/wiki/Special:Statistics, Statistikk – Wikipedia
+file343.txt, https://no.wikipedia.org/wiki/Special:AllPages, Alle sider – Wikipedia
+file344.txt, https://no.wikipedia.org/wiki/Special:RecentChanges, Siste endringer – Wikipedia
+file345.txt, https://no.wikipedia.org/wiki/Special:ListUsers/sysop, Brukerliste – Wikipedia
+file346.txt, https://no.wikipedia.org/wiki/Special:ListUsers, Brukerliste – Wikipedia
+file347.txt, https://no.wikipedia.org/wiki/Special:ActiveUsers, Liste over aktive brukere – Wikipedia
+file348.txt, https://no.wikipedia.org/wiki/Special:NewFiles, Galleri over nye filer – Wikipedia
+file349.txt, https://en.wikipedia.org/wiki/Turkish_language, Turkish language - Wikipedia
+file35.txt, https://it.wikipedia.org/wiki/Edizioni_linguistiche_di_Wikipedia, Edizioni linguistiche di Wikipedia - Wikipedia
+file350.txt, https://tr.wikipedia.org/wiki/, Vikipedi: Özgür Ansiklopedi
+file351.txt, https://tr.wikipedia.org/wiki/Special:Statistics, İstatistikler - Vikipedi
+file352.txt, https://tr.wikipedia.org/wiki/Special:AllPages, Tüm sayfalar - Vikipedi
+file353.txt, https://tr.wikipedia.org/wiki/Special:RecentChanges, Son değişiklikler - Vikipedi
+file354.txt, https://tr.wikipedia.org/wiki/Special:ListUsers/sysop, Kullanıcı listesi - Vikipedi
+file355.txt, https://tr.wikipedia.org/wiki/Special:ListUsers, Kullanıcı listesi - Vikipedi
+file356.txt, https://tr.wikipedia.org/wiki/Special:ActiveUsers, Aktif kullanıcı listesi - Vikipedi
+file357.txt, https://tr.wikipedia.org/wiki/Special:NewFiles, Yeni dosyalar - Vikipedi
+file358.txt, https://en.wikipedia.org/wiki/Chechen_language, Chechen language - Wikipedia
+file359.txt, https://ce.wikipedia.org/wiki/, Википеди — маьрша энциклопеди
+file36.txt, https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E4%B8%80%E8%A6%A7, ウィキペディアの一覧 - Wikipedia
+file360.txt, https://ce.wikipedia.org/wiki/Special:Statistics, Статистика — Википеди
+file361.txt, https://ce.wikipedia.org/wiki/Special:AllPages, Массо агӀонаш — Википеди
+file362.txt, https://ce.wikipedia.org/wiki/Special:RecentChanges, Керла нисдарш — Википеди
+file363.txt, https://ce.wikipedia.org/wiki/Special:ListUsers/sysop, Декъашхойн могӀам — Википеди
+file364.txt, https://ce.wikipedia.org/wiki/Special:ListUsers, Декъашхойн могӀам — Википеди
+file365.txt, https://ce.wikipedia.org/wiki/Special:ActiveUsers, Жигара декъашхойн могӀам — Википеди
+file366.txt, https://ce.wikipedia.org/wiki/Special:NewFiles, Керлачу файлийн галерей — Википеди
+file367.txt, https://en.wikipedia.org/wiki/Finnish_language, Finnish language - Wikipedia
+file368.txt, https://fi.wikipedia.org/wiki/, Wikipedia, vapaa tietosanakirja
+file369.txt, https://fi.wikipedia.org/wiki/Special:Statistics, Tilastot – Wikipedia
+file37.txt, https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC_%EB%AA%A9%EB%A1%9D, 위키백과 목록 - 위키백과, 우리 모두의 백과사전
+file370.txt, https://fi.wikipedia.org/wiki/Special:AllPages, Kaikki sivut – Wikipedia
+file371.txt, https://fi.wikipedia.org/wiki/Special:RecentChanges, Tuoreet muutokset – Wikipedia
+file372.txt, https://fi.wikipedia.org/wiki/Special:ListUsers/sysop, Käyttäjäluettelo – Wikipedia
+file373.txt, https://fi.wikipedia.org/wiki/Special:ListUsers, Käyttäjäluettelo – Wikipedia
+file374.txt, https://fi.wikipedia.org/wiki/Special:ActiveUsers, Aktiivisten käyttäjien lista – Wikipedia
+file375.txt, https://fi.wikipedia.org/wiki/Special:NewFiles, Uudet tiedostot – Wikipedia
+file376.txt, https://en.wikipedia.org/wiki/Czech_language, Czech language - Wikipedia
+file377.txt, https://cs.wikipedia.org/wiki/, Wikipedie, otevřená encyklopedie
+file378.txt, https://cs.wikipedia.org/wiki/Special:Statistics, Statistika – Wikipedie
+file379.txt, https://cs.wikipedia.org/wiki/Special:AllPages, Všechny články – Wikipedie
+file38.txt, https://ks.wikipedia.org/wiki/%D9%88%D9%90%DA%A9%DB%8C%D9%96%D9%BE%DB%8C%D9%96%DA%88%DB%8C%D8%A7%DB%81%D9%8E%D9%86_%DB%81%D9%95%D9%86%D9%9B%D8%B2_%D9%81%D9%90%DB%81%D8%B1%D9%90%D8%B3%D8%AA, وِکیٖپیٖڈیاہَن ہٕنٛز فِہرِست - وِکیٖپیٖڈیا
+file380.txt, https://cs.wikipedia.org/wiki/Special:RecentChanges, Poslední změny – Wikipedie
+file381.txt, https://cs.wikipedia.org/wiki/Special:ListUsers/sysop, Seznam všech uživatelů – Wikipedie
+file382.txt, https://cs.wikipedia.org/wiki/Special:ListUsers, Seznam všech uživatelů – Wikipedie
+file383.txt, https://cs.wikipedia.org/wiki/Special:ActiveUsers, Seznam aktivních uživatelů – Wikipedie
+file384.txt, https://cs.wikipedia.org/wiki/Special:NewFiles, Nejnovější soubory – Wikipedie
+file385.txt, https://en.wikipedia.org/wiki/Hungarian_language, Hungarian language - Wikipedia
+file386.txt, https://hu.wikipedia.org/wiki/, Wikipédia, a szabad enciklopédia
+file387.txt, https://hu.wikipedia.org/wiki/Special:Statistics, Statisztika – Wikipédia
+file388.txt, https://hu.wikipedia.org/wiki/Special:AllPages, Az összes lap listája – Wikipédia
+file389.txt, https://hu.wikipedia.org/wiki/Special:RecentChanges, Friss változtatások – Wikipédia
+file39.txt, https://li.wikipedia.org/wiki/Lies_vaan_Wikipedia%27s, Lies vaan Wikipedia's - Wikipedia
+file390.txt, https://hu.wikipedia.org/wiki/Special:ListUsers/sysop, Szerkesztők – Wikipédia
+file391.txt, https://hu.wikipedia.org/wiki/Special:ListUsers, Szerkesztők – Wikipédia
+file392.txt, https://hu.wikipedia.org/wiki/Special:ActiveUsers, Aktív szerkesztők listája – Wikipédia
+file393.txt, https://hu.wikipedia.org/wiki/Special:NewFiles, Új fájlok galériája – Wikipédia
+file394.txt, https://en.wikipedia.org/wiki/Tatar_language, Tatar language - Wikipedia
+file395.txt, https://tt.wikipedia.org/wiki/, Wikipedia
+file396.txt, https://tt.wikipedia.org/wiki/Special:Statistics, Статистика — Wikipedia
+file397.txt, https://tt.wikipedia.org/wiki/Special:AllPages, Барлык битләр — Wikipedia
+file398.txt, https://tt.wikipedia.org/wiki/Special:RecentChanges, Соңгы үзгәрешләр — Wikipedia
+file399.txt, https://tt.wikipedia.org/wiki/Special:ListUsers/sysop, Кулланучылар исемлеге — Wikipedia
+file4.txt, https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications, List of Wikipedia mobile applications - Wikipedia
+file40.txt, https://mai.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80, विकिपीडिया सूची - विकिपिडिया
+file400.txt, https://tt.wikipedia.org/wiki/Special:ListUsers, Кулланучылар исемлеге — Wikipedia
+file401.txt, https://tt.wikipedia.org/wiki/Special:ActiveUsers, Актив кулланучылар исемлеге — Wikipedia
+file402.txt, https://tt.wikipedia.org/wiki/Special:NewFiles, Яңа файллар җыелмасы — Wikipedia
+file403.txt, https://en.wikipedia.org/wiki/Serbo-Croatian_language, Serbo-Croatian - Wikipedia
+file404.txt, https://sh.wikipedia.org/wiki/, Wikipedija / Википедија
+file405.txt, https://sh.wikipedia.org/wiki/Special:Statistics, Statistika – Wikipedija / Википедија
+file406.txt, https://sh.wikipedia.org/wiki/Special:AllPages, Sve stranice – Wikipedija / Википедија
+file407.txt, https://sh.wikipedia.org/wiki/Special:RecentChanges, Nedavne izmjene – Wikipedija / Википедија
+file408.txt, https://sh.wikipedia.org/wiki/Special:ListUsers/sysop, Lista korisnika – Wikipedija / Википедија
+file409.txt, https://sh.wikipedia.org/wiki/Special:ListUsers, Lista korisnika – Wikipedija / Википедија
+file41.txt, https://mni.wikipedia.org/wiki/%EA%AF%8B%EA%AF%A4%EA%AF%80%EA%AF%A4%EA%AF%84%EA%AF%A6%EA%AF%97%EA%AF%A4%EA%AF%8C%EA%AF%A5_%EA%AF%83%EA%AF%83%EA%AF%A4%EA%AF%A1%EA%AF%81%EA%AF%A4%EA%AF%A1_%EA%AF%84%EA%AF%94%EA%AF%A4%EA%AF%A1, ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ ꯃꯃꯤꯡꯁꯤꯡ ꯄꯔꯤꯡ - ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ
+file410.txt, https://sh.wikipedia.org/wiki/Special:ActiveUsers, Lista aktivnih korisnika – Wikipedija / Википедија
+file411.txt, https://sh.wikipedia.org/wiki/Special:NewFiles, Galerija novih datoteka – Wikipedija / Википедија
+file412.txt, https://en.wikipedia.org/wiki/Romanian_language, Romanian language - Wikipedia
+file413.txt, https://ro.wikipedia.org/wiki/, Wikipedia
+file414.txt, https://ro.wikipedia.org/wiki/Special:Statistics, Statistici - Wikipedia
+file415.txt, https://ro.wikipedia.org/wiki/Special:AllPages, Toate articolele - Wikipedia
+file416.txt, https://ro.wikipedia.org/wiki/Special:RecentChanges, Schimbări recente - Wikipedia
+file417.txt, https://ro.wikipedia.org/wiki/Special:ListUsers/sysop, Lista utilizatorilor - Wikipedia
+file418.txt, https://ro.wikipedia.org/wiki/Special:ListUsers, Lista utilizatorilor - Wikipedia
+file419.txt, https://ro.wikipedia.org/wiki/Special:ActiveUsers, Listă utilizatori activi - Wikipedia
+file42.txt, https://ms.wikipedia.org/wiki/Senarai_Wikipedia, Senarai Wikipedia - Wikipedia Bahasa Melayu, ensiklopedia bebas
+file420.txt, https://ro.wikipedia.org/wiki/Special:NewFiles, Galeria de imagini noi - Wikipedia
+file421.txt, https://en.wikipedia.org/wiki/Minnan_language, Southern Min - Wikipedia
+file422.txt, https://zh-min-nan.wikipedia.org/wiki/, Wikipedia, chū-iû ê pek-kho-choân-su
+file423.txt, https://zh-min-nan.wikipedia.org/wiki/Special:Statistics, Thóng-kè – Wikipedia
+file424.txt, https://zh-min-nan.wikipedia.org/wiki/Special:AllPages, Só·-ū ê bûn-chiuⁿ – Wikipedia
+file425.txt, https://zh-min-nan.wikipedia.org/wiki/Special:RecentChanges, Chòe-kīn ê kái-piàn – Wikipedia
+file426.txt, https://zh-min-nan.wikipedia.org/wiki/Special:ListUsers/sysop, Iōng-chiá lia̍t-toaⁿ – Wikipedia
+file427.txt, https://zh-min-nan.wikipedia.org/wiki/Special:ListUsers, Iōng-chiá lia̍t-toaⁿ – Wikipedia
+file428.txt, https://zh-min-nan.wikipedia.org/wiki/Special:ActiveUsers, 活動的使用者清單 – Wikipedia
+file429.txt, https://zh-min-nan.wikipedia.org/wiki/Special:NewFiles, Sin iáⁿ-siōng oē-lóng – Wikipedia
+file43.txt, https://nl.wikipedia.org/wiki/Lijst_van_Wikipedia%27s, Lijst van Wikipedia's - Wikipedia
+file430.txt, https://en.wikipedia.org/wiki/Basque_language, Basque language - Wikipedia
+file431.txt, https://eu.wikipedia.org/wiki/, Wikipedia
+file432.txt, https://eu.wikipedia.org/wiki/Special:Statistics, Estatistikak - Wikipedia, entziklopedia askea.
+file433.txt, https://eu.wikipedia.org/wiki/Special:AllPages, Artikulu guztiak - Wikipedia, entziklopedia askea.
+file434.txt, https://eu.wikipedia.org/wiki/Special:RecentChanges, Aldaketa berriak - Wikipedia, entziklopedia askea.
+file435.txt, https://eu.wikipedia.org/wiki/Special:ListUsers/sysop, Erabiltzaile zerrenda - Wikipedia, entziklopedia askea.
+file436.txt, https://eu.wikipedia.org/wiki/Special:ListUsers, Erabiltzaile zerrenda - Wikipedia, entziklopedia askea.
+file437.txt, https://eu.wikipedia.org/wiki/Special:ActiveUsers, Lankide aktiboen zerrenda - Wikipedia, entziklopedia askea.
+file438.txt, https://eu.wikipedia.org/wiki/Special:NewFiles, Fitxategi berrien galeria - Wikipedia, entziklopedia askea.
+file439.txt, https://en.wikipedia.org/wiki/Malay_language, Malay language - Wikipedia
+file44.txt, https://no.wikipedia.org/wiki/Liste_over_Wikipediaer, Liste over Wikipediaer – Wikipedia
+file440.txt, https://ms.wikipedia.org/wiki/, Wikipedia, ensiklopedia bebas
+file441.txt, https://ms.wikipedia.org/wiki/Special:Statistics, Statistik - Wikipedia Bahasa Melayu, ensiklopedia bebas
+file442.txt, https://ms.wikipedia.org/wiki/Special:AllPages, Semua laman - Wikipedia Bahasa Melayu, ensiklopedia bebas
+file443.txt, https://ms.wikipedia.org/wiki/Special:RecentChanges, Perubahan terkini - Wikipedia Bahasa Melayu, ensiklopedia bebas
+file444.txt, https://ms.wikipedia.org/wiki/Special:ListUsers/sysop, Senarai pengguna - Wikipedia Bahasa Melayu, ensiklopedia bebas
+file445.txt, https://ms.wikipedia.org/wiki/Special:ListUsers, Senarai pengguna - Wikipedia Bahasa Melayu, ensiklopedia bebas
+file446.txt, https://ms.wikipedia.org/wiki/Special:ActiveUsers, Senarai pengguna aktif - Wikipedia Bahasa Melayu, ensiklopedia bebas
+file447.txt, https://ms.wikipedia.org/wiki/Special:NewFiles, Galeri fail baru - Wikipedia Bahasa Melayu, ensiklopedia bebas
+file448.txt, https://en.wikipedia.org/wiki/Hebrew_language, Hebrew language - Wikipedia
+file449.txt, https://he.wikipedia.org/wiki/, ויקיפדיה
+file45.txt, https://or.wikipedia.org/wiki/%E0%AC%89%E0%AC%87%E0%AC%95%E0%AC%BF%E0%AC%AA%E0%AC%BF%E0%AC%A1%E0%AC%BC%E0%AC%BF%E0%AC%86_%E0%AC%B8%E0%AC%AE%E0%AD%82%E0%AC%B9%E0%AC%B0_%E0%AC%A4%E0%AC%BE%E0%AC%B2%E0%AC%BF%E0%AC%95%E0%AC%BE, ଉଇକିପିଡ଼ିଆ ସମୂହର ତାଲିକା - ଉଇକିପିଡ଼ିଆ
+file450.txt, https://he.wikipedia.org/wiki/Special:Statistics, סטטיסטיקות – ויקיפדיה
+file451.txt, https://he.wikipedia.org/wiki/Special:AllPages, כל הדפים – ויקיפדיה
+file452.txt, https://he.wikipedia.org/wiki/Special:RecentChanges, שינויים אחרונים – ויקיפדיה
+file453.txt, https://he.wikipedia.org/wiki/Special:ListUsers/sysop, רשימת משתמשים – ויקיפדיה
+file454.txt, https://he.wikipedia.org/wiki/Special:ListUsers, רשימת משתמשים – ויקיפדיה
+file455.txt, https://he.wikipedia.org/wiki/Special:ActiveUsers, רשימת משתמשים פעילים – ויקיפדיה
+file456.txt, https://he.wikipedia.org/wiki/Special:NewFiles, גלריית קבצים חדשים – ויקיפדיה
+file457.txt, https://en.wikipedia.org/wiki/Esperanto_language, Esperanto - Wikipedia
+file458.txt, https://eo.wikipedia.org/wiki/, Vikipedio
+file459.txt, https://eo.wikipedia.org/wiki/Special:Statistics, Statistikoj - Vikipedio
+file46.txt, https://pnb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%DA%88%DB%8C%D8%A7%D9%88%D8%A7%DA%BA_%D8%AF%DB%8C_%D9%84%D8%B3%D9%B9, ویکیپیڈیاواں دی لسٹ - وکیپیڈیا
+file460.txt, https://eo.wikipedia.org/wiki/Special:AllPages, Ĉiuj artikoloj - Vikipedio
+file461.txt, https://eo.wikipedia.org/wiki/Special:RecentChanges, Lastaj ŝanĝoj - Vikipedio
+file462.txt, https://eo.wikipedia.org/wiki/Special:ListUsers/sysop, Uzantaro - Vikipedio
+file463.txt, https://eo.wikipedia.org/wiki/Special:ListUsers, Uzantaro - Vikipedio
+file464.txt, https://eo.wikipedia.org/wiki/Special:ActiveUsers, Listo de aktivaj uzantoj - Vikipedio
+file465.txt, https://eo.wikipedia.org/wiki/Special:NewFiles, Galerio de novaj dosieroj - Vikipedio
+file466.txt, https://en.wikipedia.org/wiki/Armenian_language, Armenian language - Wikipedia
+file467.txt, https://hy.wikipedia.org/wiki/, Վիքիպեդիա՝ ազատ հանրագիտարան
+file468.txt, https://hy.wikipedia.org/wiki/Special:Statistics, Վիճակագրություն - Վիքիպեդիա
+file469.txt, https://hy.wikipedia.org/wiki/Special:AllPages, Բոլոր հոդվածները - Վիքիպեդիա
+file47.txt, https://ps.wikipedia.org/wiki/%D8%AF_%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%90%DA%89%DB%8C%D8%A7_%D9%84%DA%93%D9%84%D9%8A%DA%A9, د ویکیپېډیا لړليک - ويکيپېډيا
+file470.txt, https://hy.wikipedia.org/wiki/Special:RecentChanges, Վերջին փոփոխություններ - Վիքիպեդիա
+file471.txt, https://hy.wikipedia.org/wiki/Special:ListUsers/sysop, Մասնակիցների ցանկ - Վիքիպեդիա
+file472.txt, https://hy.wikipedia.org/wiki/Special:ListUsers, Մասնակիցների ցանկ - Վիքիպեդիա
+file473.txt, https://hy.wikipedia.org/wiki/Special:ActiveUsers, Ակտիվ մասնակիցների ցանկ - Վիքիպեդիա
+file474.txt, https://hy.wikipedia.org/wiki/Special:NewFiles, Բեռնված նիշքերի սրահ - Վիքիպեդիա
+file475.txt, https://en.wikipedia.org/wiki/Danish_language, Danish language - Wikipedia
+file476.txt, https://da.wikipedia.org/wiki/, Wikipedia, den frie encyklopædi
+file477.txt, https://da.wikipedia.org/wiki/Special:Statistics, Statistik - Wikipedia, den frie encyklopædi
+file478.txt, https://da.wikipedia.org/wiki/Special:AllPages, Alle sider - Wikipedia, den frie encyklopædi
+file479.txt, https://da.wikipedia.org/wiki/Special:RecentChanges, Seneste ændringer - Wikipedia, den frie encyklopædi
+file48.txt, https://pt.wikipedia.org/wiki/Lista_de_Wikip%C3%A9dias, Lista de Wikipédias – Wikipédia, a enciclopédia livre
+file480.txt, https://da.wikipedia.org/wiki/Special:ListUsers/sysop, Brugerliste - Wikipedia, den frie encyklopædi
+file481.txt, https://da.wikipedia.org/wiki/Special:ListUsers, Brugerliste - Wikipedia, den frie encyklopædi
+file482.txt, https://da.wikipedia.org/wiki/Special:ActiveUsers, Liste over aktive brugere - Wikipedia, den frie encyklopædi
+file483.txt, https://da.wikipedia.org/wiki/Special:NewFiles, Galleri med de nyeste billeder - Wikipedia, den frie encyklopædi
+file484.txt, https://en.wikipedia.org/wiki/Bulgarian_language, Bulgarian language - Wikipedia
+file485.txt, https://bg.wikipedia.org/wiki/, Уикипедия
+file486.txt, https://bg.wikipedia.org/wiki/Special:Statistics, Статистика – Уикипедия
+file487.txt, https://bg.wikipedia.org/wiki/Special:AllPages, Всички страници – Уикипедия
+file488.txt, https://bg.wikipedia.org/wiki/Special:RecentChanges, Последни промени – Уикипедия
+file489.txt, https://bg.wikipedia.org/wiki/Special:ListUsers/sysop, Списък на потребителите – Уикипедия
+file49.txt, https://ro.wikipedia.org/wiki/List%C4%83_de_Wikipedii, Listă de Wikipedii - Wikipedia
+file490.txt, https://bg.wikipedia.org/wiki/Special:ListUsers, Списък на потребителите – Уикипедия
+file491.txt, https://bg.wikipedia.org/wiki/Special:ActiveUsers, Списък на активните потребители – Уикипедия
+file492.txt, https://bg.wikipedia.org/wiki/Special:NewFiles, Галерия на новите файлове – Уикипедия
+file493.txt, https://en.wikipedia.org/wiki/Welsh_language, Welsh language - Wikipedia
+file494.txt, https://cy.wikipedia.org/wiki/, Wicipedia
+file495.txt, https://cy.wikipedia.org/wiki/Special:Statistics, Ystadegau - Wicipedia
+file496.txt, https://cy.wikipedia.org/wiki/Special:AllPages, Pob erthygl - Wicipedia
+file497.txt, https://cy.wikipedia.org/wiki/Special:RecentChanges, Newidiadau diweddar - Wicipedia
+file498.txt, https://cy.wikipedia.org/wiki/Special:ListUsers/sysop, Rhestr defnyddwyr - Wicipedia
+file499.txt, https://cy.wikipedia.org/wiki/Special:ListUsers, Rhestr defnyddwyr - Wicipedia
+file5.txt, https://play.google.com/store/apps/details?id=org.wikipedia&referrer=utm_source%3Dportal%26utm_medium%3Dbutton%26anid%3Dadmob, Link
+file50.txt, https://ru.wikipedia.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8B_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8, Языковые разделы Википедии — Википедия
+file500.txt, https://cy.wikipedia.org/wiki/Special:ActiveUsers, Rhestr defnyddwyr gweithgar - Wicipedia
+file501.txt, https://cy.wikipedia.org/wiki/Special:NewFiles, Oriel y ffeiliau newydd - Wicipedia
+file502.txt, https://en.wikipedia.org/wiki/Uzbek_language, Uzbek language - Wikipedia
+file503.txt, https://uz.wikipedia.org/wiki/, Vikipediya
+file504.txt, https://uz.wikipedia.org/wiki/Special:Statistics, Statistika - Vikipediya
+file505.txt, https://uz.wikipedia.org/wiki/Special:AllPages, Barcha sahifalar - Vikipediya
+file506.txt, https://uz.wikipedia.org/wiki/Special:RecentChanges, Yangi oʻzgarishlar - Vikipediya
+file507.txt, https://uz.wikipedia.org/wiki/Special:ListUsers/sysop, Foydalanuvchilar roʻyxati - Vikipediya
+file508.txt, https://uz.wikipedia.org/wiki/Special:ListUsers, Foydalanuvchilar roʻyxati - Vikipediya
+file509.txt, https://uz.wikipedia.org/wiki/Special:ActiveUsers, Faol foydalanuvchilar roʻyxati - Vikipediya
+file51.txt, https://sah.wikipedia.org/wiki/%D0%91%D0%B8%D0%BA%D0%B8%D0%BF%D0%B8%D1%8D%D0%B4%D1%8C%D0%B8%D0%B9%D1%8D_%D1%82%D1%8B%D0%BB_%D0%B8%D1%81%D0%BF%D0%B8%D0%B8%D2%BB%D1%8D%D0%B3%D1%8D, Бикипиэдьийэ тыл испииһэгэ — Бикипиэдьийэ
+file510.txt, https://uz.wikipedia.org/wiki/Special:NewFiles, Yangi fayllar galereyasi - Vikipediya
+file511.txt, https://en.wikipedia.org/wiki/Simple_English_language, Simple English - Wikipedia
+file512.txt, https://simple.wikipedia.org/wiki/, Wikipedia
+file513.txt, https://simple.wikipedia.org/wiki/Special:Statistics, Statistics - Simple English Wikipedia, the free encyclopedia
+file514.txt, https://simple.wikipedia.org/wiki/Special:AllPages, All pages - Simple English Wikipedia, the free encyclopedia
+file515.txt, https://simple.wikipedia.org/wiki/Special:RecentChanges, New changes - Simple English Wikipedia, the free encyclopedia
+file516.txt, https://simple.wikipedia.org/wiki/Special:ListUsers/sysop, User list - Simple English Wikipedia, the free encyclopedia
+file517.txt, https://simple.wikipedia.org/wiki/Special:ListUsers, User list - Simple English Wikipedia, the free encyclopedia
+file518.txt, https://simple.wikipedia.org/wiki/Special:ActiveUsers, Active users list - Simple English Wikipedia, the free encyclopedia
+file519.txt, https://simple.wikipedia.org/wiki/Special:NewFiles, Gallery of new files - Simple English Wikipedia, the free encyclopedia
+file52.txt, https://sat.wikipedia.org/wiki/%E1%B1%A3%E1%B1%A4%E1%B1%A0%E1%B1%A4%E1%B1%AF%E1%B1%A4%E1%B1%B0%E1%B1%A4%E1%B1%AD%E1%B1%9F_%E1%B1%A8%E1%B1%AE%E1%B1%B1%E1%B1%9F%E1%B1%9C_%E1%B1%9B%E1%B1%9F%E1%B1%B9%E1%B1%9E%E1%B1%A4%E1%B1%A0%E1%B1%9F%E1%B1%A0%E1%B1%9A, ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ ᱨᱮᱱᱟᱜ ᱛᱟᱹᱞᱤᱠᱟᱠᱚ - ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ
+file520.txt, https://en.wikipedia.org/wiki/Slovak_language, Slovak language - Wikipedia
+file521.txt, https://sk.wikipedia.org/wiki/, Wikipédia
+file522.txt, https://sk.wikipedia.org/wiki/Special:Statistics, Štatistiky – Wikipédia
+file523.txt, https://sk.wikipedia.org/wiki/Special:AllPages, Všetky stránky – Wikipédia
+file524.txt, https://sk.wikipedia.org/wiki/Special:RecentChanges, Posledné úpravy – Wikipédia
+file525.txt, https://sk.wikipedia.org/wiki/Special:ListUsers/sysop, Zoznam redaktorov – Wikipédia
+file526.txt, https://sk.wikipedia.org/wiki/Special:ListUsers, Zoznam redaktorov – Wikipédia
+file527.txt, https://sk.wikipedia.org/wiki/Special:ActiveUsers, Zoznam aktívnych používateľov – Wikipédia
+file528.txt, https://sk.wikipedia.org/wiki/Special:NewFiles, Galéria nových obrázkov – Wikipédia
+file529.txt, https://en.wikipedia.org/wiki/Estonian_language, Estonian language - Wikipedia
+file53.txt, https://scn.wikipedia.org/wiki/Edizzioni_linguistichi_di_Wikipedia, Edizzioni linguistichi di Wikipedia - Wikipedia
+file530.txt, https://et.wikipedia.org/wiki/, Vikipeedia
+file531.txt, https://et.wikipedia.org/wiki/Special:Statistics, Arvandmestik – Vikipeedia
+file532.txt, https://et.wikipedia.org/wiki/Special:AllPages, Kõik leheküljed – Vikipeedia
+file533.txt, https://et.wikipedia.org/wiki/Special:RecentChanges, Viimased muudatused – Vikipeedia
+file534.txt, https://et.wikipedia.org/wiki/Special:ListUsers/sysop, Kasutajate loend – Vikipeedia
+file535.txt, https://et.wikipedia.org/wiki/Special:ListUsers, Kasutajate loend – Vikipeedia
+file536.txt, https://et.wikipedia.org/wiki/Special:ActiveUsers, Aktiivsete kasutajate loend – Vikipeedia
+file537.txt, https://et.wikipedia.org/wiki/Special:NewFiles, Uute failide galerii – Vikipeedia
+file538.txt, https://en.wikipedia.org/wiki/South_Azerbaijani_language, Azerbaijani language - Wikipedia
+file539.txt, https://azb.wikipedia.org/wiki/, ویکی‌پدیا، آچیق بیلیک‌لیک
+file54.txt, https://simple.wikipedia.org/wiki/List_of_Wikipedias, List of Wikipedias - Simple English Wikipedia, the free encyclopedia
+file540.txt, https://azb.wikipedia.org/wiki/Special:Statistics, آمارلار - ویکی‌پدیا
+file541.txt, https://azb.wikipedia.org/wiki/Special:AllPages, بوتون صفحه‌لر - ویکی‌پدیا
+file542.txt, https://azb.wikipedia.org/wiki/Special:RecentChanges, سوْن دَییشیکلیکلر - ویکی‌پدیا
+file543.txt, https://azb.wikipedia.org/wiki/Special:ListUsers/sysop, ایشلدن لیستی - ویکی‌پدیا
+file544.txt, https://azb.wikipedia.org/wiki/Special:ListUsers, ایشلدن لیستی - ویکی‌پدیا
+file545.txt, https://azb.wikipedia.org/wiki/Special:ActiveUsers, چالیشقان ایشلدنلرین لیستی - ویکی‌پدیا
+file546.txt, https://azb.wikipedia.org/wiki/Special:NewFiles, یئنی فایللارین لیستی - ویکی‌پدیا
+file547.txt, https://en.wikipedia.org/wiki/Belarusian_language, Belarusian language - Wikipedia
+file548.txt, https://be.wikipedia.org/wiki/, Вікіпедыя
+file549.txt, https://be.wikipedia.org/wiki/Special:Statistics, Статыстыка — Вікіпедыя
+file55.txt, https://sn.wikipedia.org/wiki/Wikipedia_shanduro_dzemitauro, Wikipedia shanduro dzemitauro - Wikipedia
+file550.txt, https://be.wikipedia.org/wiki/Special:AllPages, Усе артыкулы — Вікіпедыя
+file551.txt, https://be.wikipedia.org/wiki/Special:RecentChanges, Апошнія змены — Вікіпедыя
+file552.txt, https://be.wikipedia.org/wiki/Special:ListUsers/sysop, Усе ўдзельнікі — Вікіпедыя
+file553.txt, https://be.wikipedia.org/wiki/Special:ListUsers, Усе ўдзельнікі — Вікіпедыя
+file554.txt, https://be.wikipedia.org/wiki/Special:ActiveUsers, Актыўныя ўдзельнікі — Вікіпедыя
+file555.txt, https://be.wikipedia.org/wiki/Special:NewFiles, Новыя файлы — Вікіпедыя
+file556.txt, https://en.wikipedia.org/wiki/Kazakh_language, Kazakh language - Wikipedia
+file557.txt, https://kk.wikipedia.org/wiki/, Уикипедия
+file558.txt, https://kk.wikipedia.org/wiki/Special:Statistics, Статистика — Уикипедия
+file559.txt, https://kk.wikipedia.org/wiki/Special:AllPages, Барлық бет — Уикипедия
+file56.txt, https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D, விக்கிப்பீடியாக்களின் பட்டியல் - தமிழ் விக்கிப்பீடியா
+file560.txt, https://kk.wikipedia.org/wiki/Special:RecentChanges, Жуықтағы өзгерістер — Уикипедия
+file561.txt, https://kk.wikipedia.org/wiki/Special:ListUsers/sysop, Қатысушы тізімі — Уикипедия
+file562.txt, https://kk.wikipedia.org/wiki/Special:ListUsers, Қатысушы тізімі — Уикипедия
+file563.txt, https://kk.wikipedia.org/wiki/Special:ActiveUsers, Белсенді қатысушылар тізімі — Уикипедия
+file564.txt, https://kk.wikipedia.org/wiki/Special:NewFiles, Жаңа файлдар көрмесі — Уикипедия
+file565.txt, https://en.wikipedia.org/wiki/Greek_language, Greek language - Wikipedia
+file566.txt, https://el.wikipedia.org/wiki/, Βικιπαίδεια
+file567.txt, https://el.wikipedia.org/wiki/Special:Statistics, Στατιστικά - Βικιπαίδεια
+file568.txt, https://el.wikipedia.org/wiki/Special:AllPages, Όλα τα λήμματα - Βικιπαίδεια
+file569.txt, https://el.wikipedia.org/wiki/Special:RecentChanges, Πρόσφατες αλλαγές - Βικιπαίδεια
+file57.txt, https://tay.wikipedia.org/wiki/pinbkgan_na_kay_na_Wikibitia, pinbkgan na kay na Wikibitia - Wikipidia
+file570.txt, https://el.wikipedia.org/wiki/Special:ListUsers/sysop, Κατάλογος χρηστών - Βικιπαίδεια
+file571.txt, https://el.wikipedia.org/wiki/Special:ListUsers, Κατάλογος χρηστών - Βικιπαίδεια
+file572.txt, https://el.wikipedia.org/wiki/Special:ActiveUsers, Κατάλογος ενεργών χρηστών - Βικιπαίδεια
+file573.txt, https://el.wikipedia.org/wiki/Special:NewFiles, Κατάλογος (πινακοθήκη) νέων αρχείων - Βικιπαίδεια
+file574.txt, https://en.wikipedia.org/wiki/Minangkabau_language, Minangkabau language - Wikipedia
+file575.txt, https://min.wikipedia.org/wiki/, Wikipedia Minangkabau
+file576.txt, https://min.wikipedia.org/wiki/Special:Statistics, Statistik - Wikipedia baso Minang
+file577.txt, https://min.wikipedia.org/wiki/Special:AllPages, Kasado laman - Wikipedia baso Minang
+file578.txt, https://min.wikipedia.org/wiki/Special:RecentChanges, Parubahan baru - Wikipedia baso Minang
+file579.txt, https://min.wikipedia.org/wiki/Special:ListUsers/sysop, Daftar pangguno - Wikipedia baso Minang
+file58.txt, https://tg.wikipedia.org/wiki/%D0%A4%D0%B5%D2%B3%D1%80%D0%B8%D1%81%D1%82%D0%B8_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D2%B3%D0%BE, Феҳристи Википедияҳо — Википедия
+file580.txt, https://min.wikipedia.org/wiki/Special:ListUsers, Daftar pangguno - Wikipedia baso Minang
+file581.txt, https://min.wikipedia.org/wiki/Special:ActiveUsers, Daftar pangguno aktif - Wikipedia baso Minang
+file582.txt, https://min.wikipedia.org/wiki/Special:NewFiles, Berkas baru - Wikipedia baso Minang
+file583.txt, https://en.wikipedia.org/wiki/Croatian_language, Croatian language - Wikipedia
+file584.txt, https://hr.wikipedia.org/wiki/, Wikipedija
+file585.txt, https://hr.wikipedia.org/wiki/Special:Statistics, Statistike – Wikipedija
+file586.txt, https://hr.wikipedia.org/wiki/Special:AllPages, Svi članci – Wikipedija
+file587.txt, https://hr.wikipedia.org/wiki/Special:RecentChanges, Nedavne promjene – Wikipedija
+file588.txt, https://hr.wikipedia.org/wiki/Special:ListUsers/sysop, Popis suradnika – Wikipedija
+file589.txt, https://hr.wikipedia.org/wiki/Special:ListUsers, Popis suradnika – Wikipedija
+file59.txt, https://tt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D0%BB%D3%99%D1%80_%D0%B8%D1%81%D0%B5%D0%BC%D0%BB%D0%B5%D0%B3%D0%B5, Википедияләр исемлеге — Wikipedia
+file590.txt, https://hr.wikipedia.org/wiki/Special:ActiveUsers, Popis aktivnih suradnika – Wikipedija
+file591.txt, https://hr.wikipedia.org/wiki/Special:NewFiles, Galerija novih datoteka – Wikipedija
+file592.txt, https://en.wikipedia.org/wiki/Lithuanian_language, Lithuanian language - Wikipedia
+file593.txt, https://lt.wikipedia.org/wiki/, Vikipedija
+file594.txt, https://lt.wikipedia.org/wiki/Special:Statistics, Statistika – Vikipedija
+file595.txt, https://lt.wikipedia.org/wiki/Special:AllPages, Visi straipsniai – Vikipedija
+file596.txt, https://lt.wikipedia.org/wiki/Special:RecentChanges, Naujausi keitimai – Vikipedija
+file597.txt, https://lt.wikipedia.org/wiki/Special:ListUsers/sysop, Naudotojų sąrašas – Vikipedija
+file598.txt, https://lt.wikipedia.org/wiki/Special:ListUsers, Naudotojų sąrašas – Vikipedija
+file599.txt, https://lt.wikipedia.org/wiki/Special:ActiveUsers, Aktyvių naudotojų sąrašas – Vikipedija
+file6.txt, https://itunes.apple.com/app/apple-store/id324715238?pt=208305&ct=portal&mt=8, 
+file60.txt, https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D0%B9, Список Вікіпедій — Вікіпедія
+file600.txt, https://lt.wikipedia.org/wiki/Special:NewFiles, Naujausi paveikslėliai – Vikipedija
+file601.txt, https://en.wikipedia.org/wiki/Galician_language, Galician language - Wikipedia
+file602.txt, https://gl.wikipedia.org/wiki/, Wikipedia, a enciclopedia libre
+file603.txt, https://gl.wikipedia.org/wiki/Special:Statistics, Estatísticas - Wikipedia, a enciclopedia libre
+file604.txt, https://gl.wikipedia.org/wiki/Special:AllPages, Todas as páxinas - Wikipedia, a enciclopedia libre
+file605.txt, https://gl.wikipedia.org/wiki/Special:RecentChanges, Cambios recentes - Wikipedia, a enciclopedia libre
+file606.txt, https://gl.wikipedia.org/wiki/Special:ListUsers/sysop, Lista de usuarios - Wikipedia, a enciclopedia libre
+file607.txt, https://gl.wikipedia.org/wiki/Special:ListUsers, Lista de usuarios - Wikipedia, a enciclopedia libre
+file608.txt, https://gl.wikipedia.org/wiki/Special:ActiveUsers, Lista de usuarios activos - Wikipedia, a enciclopedia libre
+file609.txt, https://gl.wikipedia.org/wiki/Special:NewFiles, Galería de ficheiros novos - Wikipedia, a enciclopedia libre
+file61.txt, https://ur.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%DA%88%DB%8C%D8%A7%D8%A4%DA%BA_%DA%A9%DB%8C_%D9%81%DB%81%D8%B1%D8%B3%D8%AA, ویکیپیڈیاؤں کی فہرست - آزاد دائرۃ المعارف، ویکیپیڈیا
+file610.txt, https://en.wikipedia.org/wiki/Urdu_language, Urdu - Wikipedia
+file611.txt, https://ur.wikipedia.org/wiki/, ویکیپیڈیا، آزاد دائرۃ المعارف
+file612.txt, https://ur.wikipedia.org/wiki/Special:Statistics, اعداد و شمار - آزاد دائرۃ المعارف، ویکیپیڈیا
+file613.txt, https://ur.wikipedia.org/wiki/Special:AllPages, تمام مضامین - آزاد دائرۃ المعارف، ویکیپیڈیا
+file614.txt, https://ur.wikipedia.org/wiki/Special:RecentChanges, حالیہ تبدیلیاں - آزاد دائرۃ المعارف، ویکیپیڈیا
+file615.txt, https://ur.wikipedia.org/wiki/Special:ListUsers/sysop, فہرست ارکان - آزاد دائرۃ المعارف، ویکیپیڈیا
+file616.txt, https://ur.wikipedia.org/wiki/Special:ListUsers, فہرست ارکان - آزاد دائرۃ المعارف، ویکیپیڈیا
+file617.txt, https://ur.wikipedia.org/wiki/Special:ActiveUsers, متحرک صارفین کی فہرست - آزاد دائرۃ المعارف، ویکیپیڈیا
+file618.txt, https://ur.wikipedia.org/wiki/Special:NewFiles, نئی فائلوں کی گیلری - آزاد دائرۃ المعارف، ویکیپیڈیا
+file619.txt, https://en.wikipedia.org/wiki/Azerbaijani_language, Azerbaijani language - Wikipedia
+file62.txt, https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Wikipedia, Danh sách Wikipedia – Wikipedia tiếng Việt
+file620.txt, https://az.wikipedia.org/wiki/, Vikipediya
+file621.txt, https://az.wikipedia.org/wiki/Special:Statistics, Statistika — Vikipediya
+file622.txt, https://az.wikipedia.org/wiki/Special:AllPages, Bütün səhifələr — Vikipediya
+file623.txt, https://az.wikipedia.org/wiki/Special:RecentChanges, Son dəyişikliklər — Vikipediya
+file624.txt, https://az.wikipedia.org/wiki/Special:ListUsers/sysop, İstifadəçi siyahısı — Vikipediya
+file625.txt, https://az.wikipedia.org/wiki/Special:ListUsers, İstifadəçi siyahısı — Vikipediya
+file626.txt, https://az.wikipedia.org/wiki/Special:ActiveUsers, Aktiv istifadəçilərin siyahısı — Vikipediya
+file627.txt, https://az.wikipedia.org/wiki/Special:NewFiles, Yeni faylların siyahısı — Vikipediya
+file628.txt, https://en.wikipedia.org/wiki/Slovenian_language, Slovene language - Wikipedia
+file629.txt, https://sl.wikipedia.org/wiki/, Wikipedija
+file63.txt, https://wuu.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%8D%95%E5%AD%90, 维基百科单子 - 维基百科
+file630.txt, https://sl.wikipedia.org/wiki/Special:Statistics, Statistika - Wikipedija, prosta enciklopedija
+file631.txt, https://sl.wikipedia.org/wiki/Special:AllPages, Vse strani - Wikipedija, prosta enciklopedija
+file632.txt, https://sl.wikipedia.org/wiki/Special:RecentChanges, Zadnje spremembe - Wikipedija, prosta enciklopedija
+file633.txt, https://sl.wikipedia.org/wiki/Special:ListUsers/sysop, Seznam uporabnikov - Wikipedija, prosta enciklopedija
+file634.txt, https://sl.wikipedia.org/wiki/Special:ListUsers, Seznam uporabnikov - Wikipedija, prosta enciklopedija
+file635.txt, https://sl.wikipedia.org/wiki/Special:ActiveUsers, Seznam dejavnih uporabnikov - Wikipedija, prosta enciklopedija
+file636.txt, https://sl.wikipedia.org/wiki/Special:NewFiles, Galerija novih datotek - Wikipedija, prosta enciklopedija
+file637.txt, https://en.wikipedia.org/wiki/Ladin_language, Ladin language - Wikipedia
+file638.txt, https://lld.wikipedia.org/wiki/, Wikipedia
+file639.txt, https://lld.wikipedia.org/wiki/Special:Statistics, Statistiches - Wikipedia
+file64.txt, https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E5%88%97%E8%A1%A8, 維基百科列表 - 维基百科，自由的百科全书
+file640.txt, https://lld.wikipedia.org/wiki/Special:AllPages, Dötes les plates - Wikipedia
+file641.txt, https://lld.wikipedia.org/wiki/Special:RecentChanges, Ultimi mudamënc - Wikipedia
+file642.txt, https://lld.wikipedia.org/wiki/Special:ListUsers/sysop, Lista di utënc - Wikipedia
+file643.txt, https://lld.wikipedia.org/wiki/Special:ListUsers, Lista di utënc - Wikipedia
+file644.txt, https://lld.wikipedia.org/wiki/Special:ActiveUsers, Lista di utënc atifs - Wikipedia
+file645.txt, https://lld.wikipedia.org/wiki/Special:NewFiles, Galaria di file nüs - Wikipedia
+file646.txt, https://en.wikipedia.org/wiki/Georgian_language, Georgian language - Wikipedia
+file647.txt, https://ka.wikipedia.org/wiki/, ვიკიპედია, თავისუფალი ენციკლოპედია
+file648.txt, https://ka.wikipedia.org/wiki/Special:Statistics, სტატისტიკა - ვიკიპედია
+file649.txt, https://ka.wikipedia.org/wiki/Special:AllPages, ყველა სტატია - ვიკიპედია
+file65.txt, https://zh-yue.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E4%B8%80%E8%A6%BD, 維基百科一覽 - 維基百科，自由嘅百科全書
+file650.txt, https://ka.wikipedia.org/wiki/Special:RecentChanges, ბოლო ცვლილებები - ვიკიპედია
+file651.txt, https://ka.wikipedia.org/wiki/Special:ListUsers/sysop, მომხმარებლების სია - ვიკიპედია
+file652.txt, https://ka.wikipedia.org/wiki/Special:ListUsers, მომხმარებლების სია - ვიკიპედია
+file653.txt, https://ka.wikipedia.org/wiki/Special:ActiveUsers, აქტიურ მომხმარებელთა სია - ვიკიპედია
+file654.txt, https://ka.wikipedia.org/wiki/Special:NewFiles, ახალი სურათები - ვიკიპედია
+file655.txt, https://en.wikipedia.org/wiki/Norwegian_Nynorsk_language, Nynorsk - Wikipedia
+file656.txt, https://nn.wikipedia.org/wiki/, Wikipedia, det frie oppslagsverket
+file657.txt, https://nn.wikipedia.org/wiki/Special:Statistics, Statistikk – Wikipedia
+file658.txt, https://nn.wikipedia.org/wiki/Special:AllPages, Alle sider – Wikipedia
+file659.txt, https://nn.wikipedia.org/wiki/Special:RecentChanges, Siste endringar – Wikipedia
+file66.txt, https://www.wikidata.org/wiki/Special:EntityPage/Q21010653#sitelinks-wikipedia, list of Wikipedias - Wikidata
+file660.txt, https://nn.wikipedia.org/wiki/Special:ListUsers/sysop, Brukarliste – Wikipedia
+file661.txt, https://nn.wikipedia.org/wiki/Special:ListUsers, Brukarliste – Wikipedia
+file662.txt, https://nn.wikipedia.org/wiki/Special:ActiveUsers, Liste over aktive brukarar – Wikipedia
+file663.txt, https://nn.wikipedia.org/wiki/Special:NewFiles, Filgalleri – Wikipedia
+file664.txt, https://en.wikipedia.org/wiki/Tamil_language, Tamil language - Wikipedia
+file665.txt, https://ta.wikipedia.org/wiki/, விக்கிப்பீடியா
+file666.txt, https://ta.wikipedia.org/wiki/Special:Statistics, புள்ளிவிவரங்கள் - தமிழ் விக்கிப்பீடியா
+file667.txt, https://ta.wikipedia.org/wiki/Special:AllPages, அனைத்துக் கட்டுரைகள் - தமிழ் விக்கிப்பீடியா
+file668.txt, https://ta.wikipedia.org/wiki/Special:RecentChanges, அண்மைய மாற்றங்கள் - தமிழ் விக்கிப்பீடியா
+file669.txt, https://ta.wikipedia.org/wiki/Special:ListUsers/sysop, பயனர் அட்டவணை - தமிழ் விக்கிப்பீடியா
+file67.txt, https://www.wikidata.org/wiki/Special:EntityPage/Q21010653, list of Wikipedias - Wikidata
+file670.txt, https://ta.wikipedia.org/wiki/Special:ListUsers, பயனர் அட்டவணை - தமிழ் விக்கிப்பீடியா
+file671.txt, https://ta.wikipedia.org/wiki/Special:ActiveUsers, தொடர்பங்களிப்பாளர்களின் பட்டியல் - தமிழ் விக்கிப்பீடியா
+file672.txt, https://ta.wikipedia.org/wiki/Special:NewFiles, புதிய படிமங்கள் பக்கம் - தமிழ் விக்கிப்பீடியா
+file673.txt, https://en.wikipedia.org/wiki/Thai_language, Thai language - Wikipedia
+file674.txt, https://th.wikipedia.org/wiki/, วิกิพีเดีย สารานุกรมเสรี
+file675.txt, https://th.wikipedia.org/wiki/Special:Statistics, สถิติ - วิกิพีเดีย
+file676.txt, https://th.wikipedia.org/wiki/Special:AllPages, บทความทั้งหมด - วิกิพีเดีย
+file677.txt, https://th.wikipedia.org/wiki/Special:RecentChanges, ปรับปรุงล่าสุด - วิกิพีเดีย
+file678.txt, https://th.wikipedia.org/wiki/Special:ListUsers/sysop, รายชื่อสมาชิก - วิกิพีเดีย
+file679.txt, https://th.wikipedia.org/wiki/Special:ListUsers, รายชื่อสมาชิก - วิกิพีเดีย
+file68.txt, https://commons.wikimedia.org/wiki/Category:Wikipedia, Category:Wikipedia - Wikimedia Commons
+file680.txt, https://th.wikipedia.org/wiki/Special:ActiveUsers, รายชื่อผู้ใช้ที่ยังเคลื่อนไหว - วิกิพีเดีย
+file681.txt, https://th.wikipedia.org/wiki/Special:NewFiles, ภาพใหม่ (ห้องภาพ) - วิกิพีเดีย
+file682.txt, https://en.wikipedia.org/wiki/Hindi_language, Hindi - Wikipedia
+file683.txt, https://hi.wikipedia.org/wiki/, विकिपीडिया
+file684.txt, https://hi.wikipedia.org/wiki/Special:Statistics, सांख्यिकी - विकिपीडिया
+file685.txt, https://hi.wikipedia.org/wiki/Special:AllPages, सभी पृष्ठ - विकिपीडिया
+file686.txt, https://hi.wikipedia.org/wiki/Special:RecentChanges, हाल में हुए परिवर्तन - विकिपीडिया
+file687.txt, https://hi.wikipedia.org/wiki/Special:ListUsers/sysop, सदस्य सूची - विकिपीडिया
+file688.txt, https://hi.wikipedia.org/wiki/Special:ListUsers, सदस्य सूची - विकिपीडिया
+file689.txt, https://hi.wikipedia.org/wiki/Special:ActiveUsers, सक्रिय सदस्यों की सूची - विकिपीडिया
+file69.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ang&uselang=ang, List of Wikipedias/ang - Meta
+file690.txt, https://hi.wikipedia.org/wiki/Special:NewFiles, नई फ़ाइलों की गैलरी - विकिपीडिया
+file691.txt, https://en.wikipedia.org/wiki/Bangla_language, Bengali language - Wikipedia
+file692.txt, https://bn.wikipedia.org/wiki/, উইকিপিডিয়া, একটি মুক্ত বিশ্বকোষ
+file693.txt, https://bn.wikipedia.org/wiki/Special:Statistics, পরিসংখ্যান - উইকিপিডিয়া
+file694.txt, https://bn.wikipedia.org/wiki/Special:AllPages, সমস্ত নিবন্ধ - উইকিপিডিয়া
+file695.txt, https://bn.wikipedia.org/wiki/Special:RecentChanges, সাম্প্রতিক পরিবর্তন - উইকিপিডিয়া
+file696.txt, https://bn.wikipedia.org/wiki/Special:ListUsers/sysop, ব্যবহারকারী তালিকা - উইকিপিডিয়া
+file697.txt, https://bn.wikipedia.org/wiki/Special:ListUsers, ব্যবহারকারী তালিকা - উইকিপিডিয়া
+file698.txt, https://bn.wikipedia.org/wiki/Special:ActiveUsers, সক্রিয় ব্যবহারকারী তালিকা - উইকিপিডিয়া
+file699.txt, https://bn.wikipedia.org/wiki/Special:NewFiles, নতুন ফাইলের গ্যালারি - উইকিপিডিয়া
+file7.txt, https://creativecommons.org/licenses/by-sa/4.0/, 
+file70.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/id&uselang=id, List of Wikipedias/id - Meta
+file700.txt, https://en.wikipedia.org/wiki/Macedonian_language, Macedonian language - Wikipedia
+file701.txt, https://mk.wikipedia.org/wiki/, Википедија
+file702.txt, https://mk.wikipedia.org/wiki/Special:Statistics, Статистики — Википедија
+file703.txt, https://mk.wikipedia.org/wiki/Special:AllPages, Сите страници — Википедија
+file704.txt, https://mk.wikipedia.org/wiki/Special:RecentChanges, Скорешни промени — Википедија
+file705.txt, https://mk.wikipedia.org/wiki/Special:ListUsers/sysop, Список на корисници — Википедија
+file706.txt, https://mk.wikipedia.org/wiki/Special:ListUsers, Список на корисници — Википедија
+file707.txt, https://mk.wikipedia.org/wiki/Special:ActiveUsers, Список на активни корисници — Википедија
+file708.txt, https://mk.wikipedia.org/wiki/Special:NewFiles, Галерија на нови податотеки — Википедија
+file709.txt, https://en.wikipedia.org/wiki/Cantonese_language, Cantonese - Wikipedia
+file71.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ms&uselang=ms, List of Wikipedias/ms - Meta
+file710.txt, https://zh-yue.wikipedia.org/wiki/, 維基百科，自由嘅百科全書
+file711.txt, https://zh-yue.wikipedia.org/wiki/Special:Statistics, 統計資料 - 維基百科，自由嘅百科全書
+file712.txt, https://zh-yue.wikipedia.org/wiki/Special:AllPages, 全部 - 維基百科，自由嘅百科全書
+file713.txt, https://zh-yue.wikipedia.org/wiki/Special:RecentChanges, 最近修改 - 維基百科，自由嘅百科全書
+file714.txt, https://zh-yue.wikipedia.org/wiki/Special:ListUsers/sysop, 用戶一覽 - 維基百科，自由嘅百科全書
+file715.txt, https://zh-yue.wikipedia.org/wiki/Special:ListUsers, 用戶一覽 - 維基百科，自由嘅百科全書
+file716.txt, https://zh-yue.wikipedia.org/wiki/Special:ActiveUsers, 活躍用戶名單 - 維基百科，自由嘅百科全書
+file717.txt, https://zh-yue.wikipedia.org/wiki/Special:NewFiles, 新檔案畫廊 - 維基百科，自由嘅百科全書
+file718.txt, https://en.wikipedia.org/wiki/Latin_language, Latin - Wikipedia
+file719.txt, https://la.wikipedia.org/wiki/, Vicipaedia
+file72.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ban&uselang=ban, List of Wikipedias/ban - Meta
+file720.txt, https://la.wikipedia.org/wiki/Special:Statistics, Census - Vicipaedia
+file721.txt, https://la.wikipedia.org/wiki/Special:AllPages, Omnes paginae - Vicipaedia
+file722.txt, https://la.wikipedia.org/wiki/Special:RecentChanges, Nuper mutata - Vicipaedia
+file723.txt, https://la.wikipedia.org/wiki/Special:ListUsers/sysop, Usores - Vicipaedia
+file724.txt, https://la.wikipedia.org/wiki/Special:ListUsers, Usores - Vicipaedia
+file725.txt, https://la.wikipedia.org/wiki/Special:ActiveUsers, Index usorum activorum - Vicipaedia
+file726.txt, https://la.wikipedia.org/wiki/Special:NewFiles, Fasciculi novi - Vicipaedia
+file727.txt, https://en.wikipedia.org/wiki/Asturian_language, Asturian language - Wikipedia
+file728.txt, https://ast.wikipedia.org/wiki/, Wikipedia
+file729.txt, https://ast.wikipedia.org/wiki/Special:Statistics, Estadístiques - Wikipedia
+file73.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/nan&uselang=nan, List of Wikipedias/nan - Meta
+file730.txt, https://ast.wikipedia.org/wiki/Special:AllPages, Toles páxines - Wikipedia
+file731.txt, https://ast.wikipedia.org/wiki/Special:RecentChanges, Cambeos recién - Wikipedia
+file732.txt, https://ast.wikipedia.org/wiki/Special:ListUsers/sysop, Llista d'usuarios - Wikipedia
+file733.txt, https://ast.wikipedia.org/wiki/Special:ListUsers, Llista d'usuarios - Wikipedia
+file734.txt, https://ast.wikipedia.org/wiki/Special:ActiveUsers, Llista d'usuarios activos - Wikipedia
+file735.txt, https://ast.wikipedia.org/wiki/Special:NewFiles, Galería de ficheros nuevos - Wikipedia
+file736.txt, https://en.wikipedia.org/wiki/Latvian_language, Latvian language - Wikipedia
+file737.txt, https://lv.wikipedia.org/wiki/, Vikipēdija
+file738.txt, https://lv.wikipedia.org/wiki/Special:Statistics, Statistika — Vikipēdija
+file739.txt, https://lv.wikipedia.org/wiki/Special:AllPages, Visi raksti — Vikipēdija
+file74.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/bjn&uselang=bjn, List of Wikipedias/bjn - Meta
+file740.txt, https://lv.wikipedia.org/wiki/Special:RecentChanges, Pēdējās izmaiņas — Vikipēdija
+file741.txt, https://lv.wikipedia.org/wiki/Special:ListUsers/sysop, Dalībnieku saraksts — Vikipēdija
+file742.txt, https://lv.wikipedia.org/wiki/Special:ListUsers, Dalībnieku saraksts — Vikipēdija
+file743.txt, https://lv.wikipedia.org/wiki/Special:ActiveUsers, Aktīvo dalībnieku saraksts — Vikipēdija
+file744.txt, https://lv.wikipedia.org/wiki/Special:NewFiles, Jauno attēlu galerija — Vikipēdija
+file745.txt, https://en.wikipedia.org/wiki/Afrikaans_language, Afrikaans - Wikipedia
+file746.txt, https://af.wikipedia.org/wiki/, Wikipedia
+file747.txt, https://af.wikipedia.org/wiki/Special:Statistics, Statistieke - Wikipedia
+file748.txt, https://af.wikipedia.org/wiki/Special:AllPages, Alle bladsye - Wikipedia
+file749.txt, https://af.wikipedia.org/wiki/Special:RecentChanges, Onlangse wysigings - Wikipedia
+file75.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ca&uselang=ca, List of Wikipedias/ca - Meta
+file750.txt, https://af.wikipedia.org/wiki/Special:ListUsers/sysop, Gebruikerslys - Wikipedia
+file751.txt, https://af.wikipedia.org/wiki/Special:ListUsers, Gebruikerslys - Wikipedia
+file752.txt, https://af.wikipedia.org/wiki/Special:ActiveUsers, Aktiewe gebruikers - Wikipedia
+file753.txt, https://af.wikipedia.org/wiki/Special:NewFiles, Galery van nuwe beelde - Wikipedia
+file754.txt, https://en.wikipedia.org/wiki/Tajik_language, Tajik language - Wikipedia
+file755.txt, https://tg.wikipedia.org/wiki/, Википедия — донишномаи озод
+file756.txt, https://tg.wikipedia.org/wiki/Special:Statistics, Омор — Википедия
+file757.txt, https://tg.wikipedia.org/wiki/Special:AllPages, Ҳамаи мақолаҳо — Википедия
+file758.txt, https://tg.wikipedia.org/wiki/Special:RecentChanges, Тағйироти охирин — Википедия
+file759.txt, https://tg.wikipedia.org/wiki/Special:ListUsers/sysop, Рӯйхати корбарон — Википедия
+file76.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/es&uselang=es, List of Wikipedias/es - Meta
+file760.txt, https://tg.wikipedia.org/wiki/Special:ListUsers, Рӯйхати корбарон — Википедия
+file761.txt, https://tg.wikipedia.org/wiki/Special:ActiveUsers, Active users list — Википедия
+file762.txt, https://tg.wikipedia.org/wiki/Special:NewFiles, Файлҳои нав — Википедия
+file763.txt, https://en.wikipedia.org/wiki/Burmese_language, Burmese language - Wikipedia
+file764.txt, https://my.wikipedia.org/wiki/, ဝီကီပီးဒီးယား
+file765.txt, https://my.wikipedia.org/wiki/Special:Statistics, စာရင်းအင်း - ဝီကီပီးဒီးယား
+file766.txt, https://my.wikipedia.org/wiki/Special:AllPages, စာမျက်နှာအားလုံး - ဝီကီပီးဒီးယား
+file767.txt, https://my.wikipedia.org/wiki/Special:RecentChanges, လတ်တလော အပြောင်းအလဲများ - ဝီကီပီးဒီးယား
+file768.txt, https://my.wikipedia.org/wiki/Special:ListUsers/sysop, အသုံးပြုသူစာရင်း - ဝီကီပီးဒီးယား
+file769.txt, https://my.wikipedia.org/wiki/Special:ListUsers, အသုံးပြုသူစာရင်း - ဝီကီပီးဒီးယား
+file77.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/eo&uselang=eo, List of Wikipedias/eo - Meta
+file770.txt, https://my.wikipedia.org/wiki/Special:ActiveUsers, တက်ကြွလှုပ်ရှားသည့် အသုံးပြုသူစာရင်း - ဝီကီပီးဒီးယား
+file771.txt, https://my.wikipedia.org/wiki/Special:NewFiles, ပုံအသစ်များပြခန်း - ဝီကီပီးဒီးယား
+file772.txt, https://en.wikipedia.org/wiki/Albanian_language, Albanian language - Wikipedia
+file773.txt, https://sq.wikipedia.org/wiki/, Wikipedia
+file774.txt, https://sq.wikipedia.org/wiki/Special:Statistics, Statistika - Wikipedia
+file775.txt, https://sq.wikipedia.org/wiki/Special:AllPages, Krejt faqet - Wikipedia
+file776.txt, https://sq.wikipedia.org/wiki/Special:RecentChanges, Ndryshimet më të fundit - Wikipedia
+file777.txt, https://sq.wikipedia.org/wiki/Special:ListUsers/sysop, Lista e përdoruesve - Wikipedia
+file778.txt, https://sq.wikipedia.org/wiki/Special:ListUsers, Lista e përdoruesve - Wikipedia
+file779.txt, https://sq.wikipedia.org/wiki/Special:ActiveUsers, Lista e përdoruesve aktivë - Wikipedia
+file78.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/eu&uselang=eu, List of Wikipedias/eu — Meta
+file780.txt, https://sq.wikipedia.org/wiki/Special:NewFiles, Galeria e figurave të reja - Wikipedia
+file781.txt, https://en.wikipedia.org/wiki/Malagasy_language, Malagasy language - Wikipedia
+file782.txt, https://mg.wikipedia.org/wiki/, Wikipedia
+file783.txt, https://mg.wikipedia.org/wiki/Special:Statistics, Statistika — Wikipedia
+file784.txt, https://mg.wikipedia.org/wiki/Special:AllPages, Lahatsoratra rehetra — Wikipedia
+file785.txt, https://mg.wikipedia.org/wiki/Special:RecentChanges, Fiovana farany — Wikipedia
+file786.txt, https://mg.wikipedia.org/wiki/Special:ListUsers/sysop, Lisitry ny mpikambana — Wikipedia
+file787.txt, https://mg.wikipedia.org/wiki/Special:ListUsers, Lisitry ny mpikambana — Wikipedia
+file788.txt, https://mg.wikipedia.org/wiki/Special:ActiveUsers, Lisitry ny mpikambana mavitrika — Wikipedia
+file789.txt, https://mg.wikipedia.org/wiki/Special:NewFiles, Tahala misy ny rakitra vaovao — Wikipedia
+file79.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/fr&uselang=fr, List of Wikipedias/fr — Meta
+file790.txt, https://en.wikipedia.org/wiki/Marathi_language, Marathi language - Wikipedia
+file791.txt, https://mr.wikipedia.org/wiki/, विकिपीडिया
+file792.txt, https://mr.wikipedia.org/wiki/Special:Statistics, सांख्यिकी - विकिपीडिया
+file793.txt, https://mr.wikipedia.org/wiki/Special:AllPages, सगळे लेख - विकिपीडिया
+file794.txt, https://mr.wikipedia.org/wiki/Special:RecentChanges, अलीकडील बदल - विकिपीडिया
+file795.txt, https://mr.wikipedia.org/wiki/Special:ListUsers/sysop, सदस्यांची यादी - विकिपीडिया
+file796.txt, https://mr.wikipedia.org/wiki/Special:ListUsers, सदस्यांची यादी - विकिपीडिया
+file797.txt, https://mr.wikipedia.org/wiki/Special:ActiveUsers, गेल्या ३० दिवसांत येथे काम केलेल्या सदस्यांची यादी - विकिपीडिया
+file798.txt, https://mr.wikipedia.org/wiki/Special:NewFiles, नवीन संचिकांची यादी - विकिपीडिया
+file799.txt, https://en.wikipedia.org/wiki/Telugu_language, Telugu language - Wikipedia
+file8.txt, https://meta.wikimedia.org/wiki/Terms_of_use, Terms of use - Meta
+file80.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/gl&uselang=gl, List of Wikipedias/gl - Meta
+file800.txt, https://te.wikipedia.org/wiki/, వికీపీడియా
+file801.txt, https://te.wikipedia.org/wiki/Special:Statistics, గణాంకాలు - వికీపీడియా
+file802.txt, https://te.wikipedia.org/wiki/Special:AllPages, అన్ని వ్యాసాలు - వికీపీడియా
+file803.txt, https://te.wikipedia.org/wiki/Special:RecentChanges, ఇటీవలి మార్పులు - వికీపీడియా
+file804.txt, https://te.wikipedia.org/wiki/Special:ListUsers/sysop, సభ్యుల జాబితా - వికీపీడియా
+file805.txt, https://te.wikipedia.org/wiki/Special:ListUsers, సభ్యుల జాబితా - వికీపీడియా
+file806.txt, https://te.wikipedia.org/wiki/Special:ActiveUsers, క్రియాశీల వాడుకరుల జాబితా - వికీపీడియా
+file807.txt, https://te.wikipedia.org/wiki/Special:NewFiles, కొత్త బొమ్మల కొలువు - వికీపీడియా
+file808.txt, https://en.wikipedia.org/wiki/Bosnian_language, Bosnian language - Wikipedia
+file809.txt, https://bs.wikipedia.org/wiki/, Wikipedia
+file81.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/it&uselang=it, List of Wikipedias/it - Meta
+file810.txt, https://bs.wikipedia.org/wiki/Special:Statistics, Statistike - Wikipedia
+file811.txt, https://bs.wikipedia.org/wiki/Special:AllPages, Sve stranice - Wikipedia
+file812.txt, https://bs.wikipedia.org/wiki/Special:RecentChanges, Nedavne izmjene - Wikipedia
+file813.txt, https://bs.wikipedia.org/wiki/Special:ListUsers/sysop, Spisak korisnika - Wikipedia
+file814.txt, https://bs.wikipedia.org/wiki/Special:ListUsers, Spisak korisnika - Wikipedia
+file815.txt, https://bs.wikipedia.org/wiki/Special:ActiveUsers, Spisak aktivnih korisnika - Wikipedia
+file816.txt, https://bs.wikipedia.org/wiki/Special:NewFiles, Galerija novih slika - Wikipedia
+file817.txt, https://en.wikipedia.org/wiki/Occitan_language, Occitan language - Wikipedia
+file818.txt, https://oc.wikipedia.org/wiki/, Wikipèdia
+file819.txt, https://oc.wikipedia.org/wiki/Special:Statistics, Estatisticas — Wikipèdia
+file82.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/jv&uselang=jv, List of Wikipedias/jv - Meta
+file820.txt, https://oc.wikipedia.org/wiki/Special:AllPages, Totas las paginas — Wikipèdia
+file821.txt, https://oc.wikipedia.org/wiki/Special:RecentChanges, Darrièrs cambiaments — Wikipèdia
+file822.txt, https://oc.wikipedia.org/wiki/Special:ListUsers/sysop, Lista dels participants — Wikipèdia
+file823.txt, https://oc.wikipedia.org/wiki/Special:ListUsers, Lista dels participants — Wikipèdia
+file824.txt, https://oc.wikipedia.org/wiki/Special:ActiveUsers, Lista dels utilizaires actius — Wikipèdia
+file825.txt, https://oc.wikipedia.org/wiki/Special:NewFiles, Galariá dels fichièrs novèls — Wikipèdia
+file826.txt, https://en.wikipedia.org/wiki/Belarusian_(Tara%C5%A1kievica_orthography)_language, Taraškievica - Wikipedia
+file827.txt, https://be-tarask.wikipedia.org/wiki/, Вікіпэдыя
+file828.txt, https://be-tarask.wikipedia.org/wiki/Special:Statistics, Статыстыка — Вікіпэдыя
+file829.txt, https://be-tarask.wikipedia.org/wiki/Special:AllPages, Усе старонкі — Вікіпэдыя
+file83.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/lt&uselang=lt, List of Wikipedias/lt - Meta
+file830.txt, https://be-tarask.wikipedia.org/wiki/Special:RecentChanges, Апошнія зьмены — Вікіпэдыя
+file831.txt, https://be-tarask.wikipedia.org/wiki/Special:ListUsers/sysop, Сьпіс удзельнікаў і ўдзельніц — Вікіпэдыя
+file832.txt, https://be-tarask.wikipedia.org/wiki/Special:ListUsers, Сьпіс удзельнікаў і ўдзельніц — Вікіпэдыя
+file833.txt, https://be-tarask.wikipedia.org/wiki/Special:ActiveUsers, Сьпіс актыўных удзельнікаў — Вікіпэдыя
+file834.txt, https://be-tarask.wikipedia.org/wiki/Special:NewFiles, Галерэя новых файлаў — Вікіпэдыя
+file835.txt, https://en.wikipedia.org/wiki/Breton_language, Breton language - Wikipedia
+file836.txt, https://br.wikipedia.org/wiki/, Wikipedia
+file837.txt, https://br.wikipedia.org/wiki/Special:Statistics, Stadegoù - Wikipedia
+file838.txt, https://br.wikipedia.org/wiki/Special:AllPages, An holl bajennoù - Wikipedia
+file839.txt, https://br.wikipedia.org/wiki/Special:RecentChanges, Kemmoù diwezhañ - Wikipedia
+file84.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/mwl&uselang=mwl, List of Wikipedias/mwl - Meta
+file840.txt, https://br.wikipedia.org/wiki/Special:ListUsers/sysop, Roll an implijerien - Wikipedia
+file841.txt, https://br.wikipedia.org/wiki/Special:ListUsers, Roll an implijerien - Wikipedia
+file842.txt, https://br.wikipedia.org/wiki/Special:ActiveUsers, Roll an implijerien oberiant - Wikipedia
+file843.txt, https://br.wikipedia.org/wiki/Special:NewFiles, Roll ar restroù nevez - Wikipedia
+file844.txt, https://en.wikipedia.org/wiki/Malayalam_language, Malayalam - Wikipedia
+file845.txt, https://ml.wikipedia.org/wiki/, വിക്കിപീഡിയ
+file846.txt, https://ml.wikipedia.org/wiki/Special:Statistics, സ്ഥിതിവിവരക്കണക്കുകൾ - വിക്കിപീഡിയ
+file847.txt, https://ml.wikipedia.org/wiki/Special:AllPages, എല്ലാ താളുകളും - വിക്കിപീഡിയ
+file848.txt, https://ml.wikipedia.org/wiki/Special:RecentChanges, സമീപകാല മാറ്റങ്ങൾ - വിക്കിപീഡിയ
+file849.txt, https://ml.wikipedia.org/wiki/Special:ListUsers/sysop, ഉപയോക്താക്കളുടെ പട്ടിക - വിക്കിപീഡിയ
+file85.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/oc&uselang=oc, List of Wikipedias/oc — Meta
+file850.txt, https://ml.wikipedia.org/wiki/Special:ListUsers, ഉപയോക്താക്കളുടെ പട്ടിക - വിക്കിപീഡിയ
+file851.txt, https://ml.wikipedia.org/wiki/Special:ActiveUsers, സജീവ ഉപയോക്താക്കളുടെ പട്ടിക - വിക്കിപീഡിയ
+file852.txt, https://ml.wikipedia.org/wiki/Special:NewFiles, പുതിയ പ്രമാണങ്ങളുടെ ചിത്രശാല - വിക്കിപീഡിയ
+file853.txt, https://en.wikipedia.org/wiki/Low_German_language, Low German - Wikipedia
+file854.txt, https://nds.wikipedia.org/wiki/, Wikipedia, dat fre'e Nakieksel
+file855.txt, https://nds.wikipedia.org/wiki/Special:Statistics, Statistik – Wikipedia
+file856.txt, https://nds.wikipedia.org/wiki/Special:AllPages, Alle Artikels – Wikipedia
+file857.txt, https://nds.wikipedia.org/wiki/Special:RecentChanges, Toletzt ännert – Wikipedia
+file858.txt, https://nds.wikipedia.org/wiki/Special:ListUsers/sysop, Brukerlist – Wikipedia
+file859.txt, https://nds.wikipedia.org/wiki/Special:ListUsers, Brukerlist – Wikipedia
+file86.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/pt&uselang=pt, List of Wikipedias/pt - Meta
+file860.txt, https://nds.wikipedia.org/wiki/Special:ActiveUsers, Aktive Brukers – Wikipedia
+file861.txt, https://nds.wikipedia.org/wiki/Special:NewFiles, Ne’e Biller – Wikipedia
+file862.txt, https://en.wikipedia.org/wiki/Swahili_language, Swahili language - Wikipedia
+file863.txt, https://sw.wikipedia.org/wiki/, Wikipedia
+file864.txt, https://sw.wikipedia.org/wiki/Special:Statistics, Takwimu - Wikipedia, kamusi elezo huru
+file865.txt, https://sw.wikipedia.org/wiki/Special:AllPages, Kurasa zote - Wikipedia, kamusi elezo huru
+file866.txt, https://sw.wikipedia.org/wiki/Special:RecentChanges, Mabadiliko ya karibuni - Wikipedia, kamusi elezo huru
+file867.txt, https://sw.wikipedia.org/wiki/Special:ListUsers/sysop, Orodha ya Watumiaji - Wikipedia, kamusi elezo huru
+file868.txt, https://sw.wikipedia.org/wiki/Special:ListUsers, Orodha ya Watumiaji - Wikipedia, kamusi elezo huru
+file869.txt, https://sw.wikipedia.org/wiki/Special:ActiveUsers, Orodha ya watumiaji hai - Wikipedia, kamusi elezo huru
+file87.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/ro&uselang=ro, List of Wikipedias/ro - Meta
+file870.txt, https://sw.wikipedia.org/wiki/Special:NewFiles, Mkusanyiko wa mafaili mapya - Wikipedia, kamusi elezo huru
+file871.txt, https://en.wikipedia.org/wiki/Kyrgyz_language, Kyrgyz language - Wikipedia
+file872.txt, https://ky.wikipedia.org/wiki/, Википедия
+file873.txt, https://ky.wikipedia.org/wiki/Special:Statistics, Статистика - Википедия
+file874.txt, https://ky.wikipedia.org/wiki/Special:AllPages, Бардык макалалар - Википедия
+file875.txt, https://ky.wikipedia.org/wiki/Special:RecentChanges, Соңку өзгөрүүлөр - Википедия
+file876.txt, https://ky.wikipedia.org/wiki/Special:ListUsers/sysop, Колдонуучулар тизмеси - Википедия
+file877.txt, https://ky.wikipedia.org/wiki/Special:ListUsers, Колдонуучулар тизмеси - Википедия
+file878.txt, https://ky.wikipedia.org/wiki/Special:ActiveUsers, Жигердүү колдонуучулардын тизмеси - Википедия
+file879.txt, https://ky.wikipedia.org/wiki/Special:NewFiles, Жаңы файлдардын галлереясы - Википедия
+file88.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/so&uselang=so, List of Wikipedias/so - Meta
+file880.txt, https://en.wikipedia.org/wiki/Kurdish_language, Kurdish language - Wikipedia
+file881.txt, https://ku.wikipedia.org/wiki/, Wîkîpediya
+file882.txt, https://ku.wikipedia.org/wiki/Special:Statistics, Statîstîk - Wîkîpediya
+file883.txt, https://ku.wikipedia.org/wiki/Special:AllPages, Hemû gotar - Wîkîpediya
+file884.txt, https://ku.wikipedia.org/wiki/Special:RecentChanges, Guhartinên dawî - Wîkîpediya
+file885.txt, https://ku.wikipedia.org/wiki/Special:ListUsers/sysop, Lîsteya bikarhêneran - Wîkîpediya
+file886.txt, https://ku.wikipedia.org/wiki/Special:ListUsers, Lîsteya bikarhêneran - Wîkîpediya
+file887.txt, https://ku.wikipedia.org/wiki/Special:ActiveUsers, Lîsteya bikarhênerên çalak - Wîkîpediya
+file888.txt, https://ku.wikipedia.org/wiki/Special:NewFiles, Pêşangeha wêneyên nû - Wîkîpediya
+file889.txt, https://en.wikipedia.org/wiki/Lombard_language, Lombard language - Wikipedia
+file89.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/fi&uselang=fi, List of Wikipedias/fi – Meta
+file890.txt, https://lmo.wikipedia.org/wiki/, Wikipedia
+file891.txt, https://lmo.wikipedia.org/wiki/Special:Statistics, Statistiche - Wikipedia
+file892.txt, https://lmo.wikipedia.org/wiki/Special:AllPages, Tucc i articoi - Wikipedia
+file893.txt, https://lmo.wikipedia.org/wiki/Special:RecentChanges, Cambiament recent - Wikipedia
+file894.txt, https://lmo.wikipedia.org/wiki/Special:ListUsers/sysop, Lista di utent registrad - Wikipedia
+file895.txt, https://lmo.wikipedia.org/wiki/Special:ListUsers, Lista di utent registrad - Wikipedia
+file896.txt, https://lmo.wikipedia.org/wiki/Special:ActiveUsers, Lista di utent ativ - Wikipedia
+file897.txt, https://lmo.wikipedia.org/wiki/Special:NewFiles, Gallaria de imagin noeuve - Wikipedia
+file898.txt, https://en.wikipedia.org/wiki/Javanese_language, Javanese language - Wikipedia
+file899.txt, https://jv.wikipedia.org/wiki/, Wikipédia, bauwarna mardika
+file9.txt, https://meta.wikimedia.org/wiki/Privacy_policy, Privacy policy - Meta
+file90.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/tr&uselang=tr, List of Wikipedias/tr - Meta
+file900.txt, https://jv.wikipedia.org/wiki/Special:Statistics, Setatistik - Wikipédia
+file901.txt, https://jv.wikipedia.org/wiki/Special:AllPages, Kabèh kaca - Wikipédia
+file902.txt, https://jv.wikipedia.org/wiki/Special:RecentChanges, Owahan anyar - Wikipédia
+file903.txt, https://jv.wikipedia.org/wiki/Special:ListUsers/sysop, Pratélaning naraguna - Wikipédia
+file904.txt, https://jv.wikipedia.org/wiki/Special:ListUsers, Pratélaning naraguna - Wikipédia
+file905.txt, https://jv.wikipedia.org/wiki/Special:ActiveUsers, Dhaptar panganggé aktif - Wikipédia
+file906.txt, https://jv.wikipedia.org/wiki/Special:NewFiles, Galeri berkas anyar - Wikipédia
+file907.txt, https://en.wikipedia.org/wiki/Western_Punjabi_language, Western Punjabi - Wikipedia
+file908.txt, https://pnb.wikipedia.org/wiki/, وکیپیڈیا
+file909.txt, https://pnb.wikipedia.org/wiki/Special:Statistics, آنکڑے - وکیپیڈیا
+file91.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/vec&uselang=vec, List of Wikipedias/vec - Meta
+file910.txt, https://pnb.wikipedia.org/wiki/Special:AllPages, سارے صفحے - وکیپیڈیا
+file911.txt, https://pnb.wikipedia.org/wiki/Special:RecentChanges, نویاں تبدیلیاں - وکیپیڈیا
+file912.txt, https://pnb.wikipedia.org/wiki/Special:ListUsers/sysop, ورتن والیاں دے ناں - وکیپیڈیا
+file913.txt, https://pnb.wikipedia.org/wiki/Special:ListUsers, ورتن والیاں دے ناں - وکیپیڈیا
+file914.txt, https://pnb.wikipedia.org/wiki/Special:ActiveUsers, کم کرن والیاں دی لسٹ - وکیپیڈیا
+file915.txt, https://pnb.wikipedia.org/wiki/Special:NewFiles, نویاں فائلاں دی نگری - وکیپیڈیا
+file916.txt, https://en.wikipedia.org/wiki/Newari_language, Newar language - Wikipedia
+file917.txt, https://new.wikipedia.org/wiki/, Wikipedia
+file918.txt, https://new.wikipedia.org/wiki/Special:Statistics, तथ्याङ्क - Wikipedia
+file919.txt, https://new.wikipedia.org/wiki/Special:AllPages, सकल च्वसुत - Wikipedia
+file92.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/diq&uselang=diq, List of Wikipedias/diq – Meta
+file920.txt, https://new.wikipedia.org/wiki/Special:RecentChanges, न्हूगु हिलेज्या - Wikipedia
+file921.txt, https://new.wikipedia.org/wiki/Special:ListUsers/sysop, छ्येलेमि धलः - Wikipedia
+file922.txt, https://new.wikipedia.org/wiki/Special:ListUsers, छ्येलेमि धलः - Wikipedia
+file923.txt, https://new.wikipedia.org/wiki/Special:ActiveUsers, Active users list - Wikipedia
+file924.txt, https://new.wikipedia.org/wiki/Special:NewFiles, Gallery of new files - Wikipedia
+file925.txt, https://en.wikipedia.org/wiki/Haitian_Creole_language, Haitian Creole - Wikipedia
+file926.txt, https://ht.wikipedia.org/wiki/, Wikipedya
+file927.txt, https://ht.wikipedia.org/wiki/Special:Statistics, Estatistik — Wikipedya
+file928.txt, https://ht.wikipedia.org/wiki/Special:AllPages, Tout paj yo — Wikipedya
+file929.txt, https://ht.wikipedia.org/wiki/Special:RecentChanges, Chanjman resan — Wikipedya
+file93.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/el&uselang=el, List of Wikipedias/el - Meta
+file930.txt, https://ht.wikipedia.org/wiki/Special:ListUsers/sysop, Lis itilizatè — Wikipedya
+file931.txt, https://ht.wikipedia.org/wiki/Special:ListUsers, Lis itilizatè — Wikipedya
+file932.txt, https://ht.wikipedia.org/wiki/Special:ActiveUsers, Liste des utilisateurs actifs — Wikipedya
+file933.txt, https://ht.wikipedia.org/wiki/Special:NewFiles, Galri pou nouvo fichye yo — Wikipedya
+file934.txt, https://en.wikipedia.org/wiki/Venetian_language, Venetian language - Wikipedia
+file935.txt, https://vec.wikipedia.org/wiki/, Wikipedia, ła ensiclopedia łìbara in łéngua Vèneta
+file936.txt, https://vec.wikipedia.org/wiki/Special:Statistics, Statisteghe - Wikipèdia Vèneta, ła ensiclopedia łìbara
+file937.txt, https://vec.wikipedia.org/wiki/Special:AllPages, Tute łe pajine - Wikipèdia Vèneta, ła ensiclopedia łìbara
+file938.txt, https://vec.wikipedia.org/wiki/Special:RecentChanges, Canbiamenti in ultima - Wikipèdia Vèneta, ła ensiclopedia łìbara
+file939.txt, https://vec.wikipedia.org/wiki/Special:ListUsers/sysop, Lista de łe utense - Wikipèdia Vèneta, ła ensiclopedia łìbara
+file94.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/be-tarask&uselang=be-tarask, List of Wikipedias/be-tarask — Meta
+file940.txt, https://vec.wikipedia.org/wiki/Special:ListUsers, Lista de łe utense - Wikipèdia Vèneta, ła ensiclopedia łìbara
+file941.txt, https://vec.wikipedia.org/wiki/Special:ActiveUsers, Lista dei utenti ativi - Wikipèdia Vèneta, ła ensiclopedia łìbara
+file942.txt, https://vec.wikipedia.org/wiki/Special:NewFiles, Galeria dei file novi - Wikipèdia Vèneta, ła ensiclopedia łìbara
+file943.txt, https://en.wikipedia.org/wiki/Piedmontese_language, Piedmontese language - Wikipedia
+file944.txt, https://pms.wikipedia.org/wiki/, Wikipedia
+file945.txt, https://pms.wikipedia.org/wiki/Special:Statistics, Statìstiche - Wikipedia an piemontèis, l'enciclopedìa lìbera e a gràtis
+file946.txt, https://pms.wikipedia.org/wiki/Special:AllPages, Tùit j'artìcoj - Wikipedia an piemontèis, l'enciclopedìa lìbera e a gràtis
+file947.txt, https://pms.wikipedia.org/wiki/Special:RecentChanges, Ùltime Modìfiche - Wikipedia an piemontèis, l'enciclopedìa lìbera e a gràtis
+file948.txt, https://pms.wikipedia.org/wiki/Special:ListUsers/sysop, Lista dj'utent - Wikipedia an piemontèis, l'enciclopedìa lìbera e a gràtis
+file949.txt, https://pms.wikipedia.org/wiki/Special:ListUsers, Lista dj'utent - Wikipedia an piemontèis, l'enciclopedìa lìbera e a gràtis
+file95.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/bg&uselang=bg, List of Wikipedias/bg – Meta
+file950.txt, https://pms.wikipedia.org/wiki/Special:ActiveUsers, Lista dj'utent ativ - Wikipedia an piemontèis, l'enciclopedìa lìbera e a gràtis
+file951.txt, https://pms.wikipedia.org/wiki/Special:NewFiles, Galerìa ëd figure e son neuv - Wikipedia an piemontèis, l'enciclopedìa lìbera e a gràtis
+file952.txt, https://en.wikipedia.org/wiki/Bashkir_language, Bashkir language - Wikipedia
+file953.txt, https://ba.wikipedia.org/wiki/, Википедия
+file954.txt, https://ba.wikipedia.org/wiki/Special:Statistics, Статистика — Википедия
+file955.txt, https://ba.wikipedia.org/wiki/Special:AllPages, Барлыҡ биттәр — Википедия
+file956.txt, https://ba.wikipedia.org/wiki/Special:RecentChanges, Һуңғы үҙгәртеүҙәр — Википедия
+file957.txt, https://ba.wikipedia.org/wiki/Special:ListUsers/sysop, Ҡатнашыусылар исемлеге — Википедия
+file958.txt, https://ba.wikipedia.org/wiki/Special:ListUsers, Ҡатнашыусылар исемлеге — Википедия
+file959.txt, https://ba.wikipedia.org/wiki/Special:ActiveUsers, Әүҙем ҡатнашыусылар исемлеге — Википедия
+file96.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/mk&uselang=mk, List of Wikipedias/mk — Meta
+file960.txt, https://ba.wikipedia.org/wiki/Special:NewFiles, Яңы файлдар галереяһы — Википедия
+file961.txt, https://en.wikipedia.org/wiki/Luxembourgish_language, Luxembourgish - Wikipedia
+file962.txt, https://lb.wikipedia.org/wiki/, Wikipedia
+file963.txt, https://lb.wikipedia.org/wiki/Special:Statistics, Statistik – Wikipedia
+file964.txt, https://lb.wikipedia.org/wiki/Special:AllPages, All Säiten – Wikipedia
+file965.txt, https://lb.wikipedia.org/wiki/Special:RecentChanges, Rezent Ännerungen – Wikipedia
+file966.txt, https://lb.wikipedia.org/wiki/Special:ListUsers/sysop, Benotzerlëscht – Wikipedia
+file967.txt, https://lb.wikipedia.org/wiki/Special:ListUsers, Benotzerlëscht – Wikipedia
+file968.txt, https://lb.wikipedia.org/wiki/Special:ActiveUsers, Lëscht vun den aktive Benotzer – Wikipedia
+file969.txt, https://lb.wikipedia.org/wiki/Special:NewFiles, Gallerie vun den neie Biller – Wikipedia
+file97.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/hy&uselang=hy, List of Wikipedias/hy — Meta
+file970.txt, https://en.wikipedia.org/wiki/Sundanese_language, Sundanese language - Wikipedia
+file971.txt, https://su.wikipedia.org/wiki/, Wikipédia Sunda, énsiklopédi bébas
+file972.txt, https://su.wikipedia.org/wiki/Special:Statistics, Statistik - Wikipédia Sunda, énsiklopédi bébas
+file973.txt, https://su.wikipedia.org/wiki/Special:AllPages, Sadaya artikel - Wikipédia Sunda, énsiklopédi bébas
+file974.txt, https://su.wikipedia.org/wiki/Special:RecentChanges, Anyar robah - Wikipédia Sunda, énsiklopédi bébas
+file975.txt, https://su.wikipedia.org/wiki/Special:ListUsers/sysop, Daptar pamaké - Wikipédia Sunda, énsiklopédi bébas
+file976.txt, https://su.wikipedia.org/wiki/Special:ListUsers, Daptar pamaké - Wikipédia Sunda, énsiklopédi bébas
+file977.txt, https://su.wikipedia.org/wiki/Special:ActiveUsers, Béréndélan pamaké nu getol - Wikipédia Sunda, énsiklopédi bébas
+file978.txt, https://su.wikipedia.org/wiki/Special:NewFiles, Galeri gambar anyar - Wikipédia Sunda, énsiklopédi bébas
+file979.txt, https://en.wikipedia.org/wiki/Irish_language, Irish language - Wikipedia
+file98.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/anp&uselang=anp, List of Wikipedias/anp - Meta
+file980.txt, https://ga.wikipedia.org/wiki/, Vicipéid
+file981.txt, https://ga.wikipedia.org/wiki/Special:Statistics, Staidrimh - Vicipéid
+file982.txt, https://ga.wikipedia.org/wiki/Special:AllPages, Gach alt - Vicipéid
+file983.txt, https://ga.wikipedia.org/wiki/Special:RecentChanges, Athruithe deireanacha - Vicipéid
+file984.txt, https://ga.wikipedia.org/wiki/Special:ListUsers/sysop, Liosta úsáideoirí - Vicipéid
+file985.txt, https://ga.wikipedia.org/wiki/Special:ListUsers, Liosta úsáideoirí - Vicipéid
+file986.txt, https://ga.wikipedia.org/wiki/Special:ActiveUsers, Active users list - Vicipéid
+file987.txt, https://ga.wikipedia.org/wiki/Special:NewFiles, Gailearaí na n-íomhánna nua - Vicipéid
+file988.txt, https://en.wikipedia.org/wiki/Icelandic_language, Icelandic language - Wikipedia
+file989.txt, https://is.wikipedia.org/wiki/, Wikipedia, frjálsa alfræðiritið
+file99.txt, https://meta.wikimedia.org/w/index.php?title=List_of_Wikipedias/new&uselang=new, List of Wikipedias/new - Meta
+file990.txt, https://is.wikipedia.org/wiki/Special:Statistics, Tölfræði - Wikipedia, frjálsa alfræðiritið
+file991.txt, https://is.wikipedia.org/wiki/Special:AllPages, Allar greinar - Wikipedia, frjálsa alfræðiritið
+file992.txt, https://is.wikipedia.org/wiki/Special:RecentChanges, Nýlegar breytingar - Wikipedia, frjálsa alfræðiritið
+file993.txt, https://is.wikipedia.org/wiki/Special:ListUsers/sysop, Notendalisti - Wikipedia, frjálsa alfræðiritið
+file994.txt, https://is.wikipedia.org/wiki/Special:ListUsers, Notendalisti - Wikipedia, frjálsa alfræðiritið
+file995.txt, https://is.wikipedia.org/wiki/Special:ActiveUsers, Listi virkra notenda - Wikipedia, frjálsa alfræðiritið
+file996.txt, https://is.wikipedia.org/wiki/Special:NewFiles, Myndasafn nýlegra skráa - Wikipedia, frjálsa alfræðiritið
+file997.txt, https://en.wikipedia.org/wiki/Silesian_language, Silesian language - Wikipedia
+file998.txt, https://szl.wikipedia.org/wiki/, Wikipedyjo, swobodno yncyklopedyjo
+file999.txt, https://szl.wikipedia.org/wiki/Special:Statistics, Statystyka – Wikipedia
