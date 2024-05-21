@@ -73,9 +73,8 @@ def search_inverted_index(word):
 def main():
     st.title("Search Engine")
 
-        linkedin_url = "https://www.linkedin.com/in/ahmed-ramadan-348264225/"
+    linkedin_url = "https://www.linkedin.com/in/ahmed-ramadan-348264225/"
     github_url = "https://github.com/Ahmed-Ramadan-Ahmed"
-    
     leetcode_url = "https://leetcode.com/u/A_Ramadan_A/"
     codeforces_url = "https://codeforces.com/profile/Master_by2025"
     email = "aramadan442000@gmail.com"
