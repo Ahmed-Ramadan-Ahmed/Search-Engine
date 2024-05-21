@@ -102,7 +102,7 @@ def main():
     leetcode_url = "https://leetcode.com/u/A_Ramadan_A/"
     codeforces_url = "https://codeforces.com/profile/Master_by2025"
     email = "aramadan442000@gmail.com"
-    st.sidebar.image(r"C:\Users\Ahmed Ramadan\Pictures\Saved Pictures\Ahmed.jpg", width=100)
+    st.sidebar.image(r"Ahmed.jpg", width=100)
     # Create a sidebar
     with st.sidebar:
         with st.sidebar.container():
