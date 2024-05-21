@@ -14,7 +14,7 @@ def find_link_info(file_name, text_file):
 
 # Usage example:
 file_name = 'file.txt'
-text_file = 'links.txt'  # Replace this with your actual text file name
+text_file = 'Links.txt'  # Replace this with your actual text file name
 
 def load_word_file_map(filename):
     word_file_map = {}
@@ -37,7 +37,7 @@ def search_word(word_file_map, word):
 def search_page_rank(word):
     file_path = "page-rank.txt"
     files = search_word(load_word_file_map(file_path),word)
-    text_file = 'links.txt'
+    text_file = 'Links.txt'
     ans = []
     for file_name in files:
         temp = find_link_info(file_name, text_file)
@@ -49,7 +49,7 @@ def search_page_rank(word):
 def search_tf_idf(word):
     file_path = "tf-idf.txt"
     files = search_word(load_word_file_map(file_path), word)
-    text_file = 'links.txt'
+    text_file = 'Links.txt'
     ans = []
     for file_name in files:
         temp = find_link_info(file_name, text_file)
@@ -61,7 +61,7 @@ def search_tf_idf(word):
 def search_inverted_index(word):
     file_path = "inverted-index.txt"
     files = search_word(load_word_file_map(file_path), word)
-    text_file = 'links.txt'
+    text_file = 'Links.txt'
     ans = []
     for file_name in files:
         temp = find_link_info(file_name, text_file)
