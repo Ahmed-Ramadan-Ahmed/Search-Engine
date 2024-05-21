@@ -71,8 +71,31 @@ def search_inverted_index(word):
     return ans
 
 def main():
-    st.title("Word Link Search")
+    st.title("Search Engine")
 
+        linkedin_url = "https://www.linkedin.com/in/ahmed-ramadan-348264225/"
+    github_url = "https://github.com/Ahmed-Ramadan-Ahmed"
+    
+    leetcode_url = "https://leetcode.com/u/A_Ramadan_A/"
+    codeforces_url = "https://codeforces.com/profile/Master_by2025"
+    email = "aramadan442000@gmail.com"
+    st.sidebar.image("Ahmed.jpg", width=100)
+    # Create a sidebar
+    with st.sidebar:
+        with st.sidebar.container():
+            st.write("Connect with me:")
+            # Mail 
+            st.markdown(f"[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:{email})")
+            # GitHub badge
+            st.markdown(f"[![GitHub](https://img.shields.io/badge/GitHub-Profile-green)]({github_url})")
+            # LinkedIn badge
+            st.markdown(f"[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]({linkedin_url})")
+            # LeetCode badge
+            st.markdown(f"[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red)]({leetcode_url})")
+            # Codeforces badge
+            st.markdown(f"[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-purple)]({codeforces_url})")
+            
+    
     search_method = st.selectbox("Choose Search Method:", ["By Page Rank", "By TF-IDF", "inverted-index"])
     word = st.text_input("Enter a word:")
 
