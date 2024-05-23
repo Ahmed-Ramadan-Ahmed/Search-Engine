@@ -62,10 +62,10 @@ def search_word(word, link_dict):
 # Streamlit app
 st.title("Word Search Engine")
 
-linkedin_url = "https://www.linkedin.com/in/ahmed-ramadan-348264225/"
-github_url = "https://github.com/Ahmed-Ramadan-Ahmed"
-leetcode_url = "https://leetcode.com/u/A_Ramadan_A/"
-codeforces_url = "https://codeforces.com/profile/Master_by2025"
+linkedin_url = r"https://www.linkedin.com/in/ahmed-ramadan-348264225/"
+github_url = r"https://github.com/Ahmed-Ramadan-Ahmed"
+leetcode_url = r"https://leetcode.com/u/A_Ramadan_A/"
+codeforces_url = r"https://codeforces.com/profile/Master_by2025"
 email = "aramadan442000@gmail.com"
 st.sidebar.image(r"Ahmed.jpg", width=100)
 # Create a sidebar
